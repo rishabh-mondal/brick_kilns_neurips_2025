@@ -1,0 +1,83 @@
+Area in square meters: 667,655,783.39 m²
+Area in square kilometers: 667.66 km²
+Generated 30 tiles.
+Area of AOI: 0.06 square meters
+Filtered 24 tiles based on intersection area.
+Total number of filtered tiles: 24
+Estimated total file size: 79.20 MB
+Estimated total memory required: 0.08 GB
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.0500.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.3000.tif
+Valid files: 22
+Invalid files: 2
+Downloaded Tile_87.8000_22.1500
+Tile Tile_87.8000_22.1500 is valid.
+Downloaded Tile_87.8500_22.2500
+Tile Tile_87.8500_22.2500 is valid.
+Downloaded Tile_87.8500_22.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8500_22.1000.tif
+Tile Tile_87.8500_22.1000 is invalid, re-downloading...
+Downloaded Tile_87.8500_22.1000
+Tile Tile_87.8500_22.1000 re-downloaded and is now valid.
+Downloaded Tile_87.8000_22.2000
+Tile Tile_87.8000_22.2000 is valid.
+Downloaded Tile_87.8500_22.3000
+Tile Tile_87.8500_22.3000 is valid.
+Downloaded Tile_87.9000_22.2000
+Tile Tile_87.9000_22.2000 is valid.
+Downloaded Tile_87.8500_22.1500
+Tile Tile_87.8500_22.1500 is valid.
+Downloaded Tile_87.8500_22.2000
+Tile Tile_87.8500_22.2000 is valid.
+Downloaded Tile_87.8000_22.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.0500.tif
+Tile Tile_87.8000_22.0500 is invalid, re-downloading...
+Downloaded Tile_87.8000_22.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.0500.tif
+Tile Tile_87.8000_22.0500 is still invalid after re-downloading.
+Downloaded Tile_87.9000_22.2500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.9000_22.2500.tif
+Tile Tile_87.9000_22.2500 is invalid, re-downloading...
+Downloaded Tile_87.9000_22.2500
+Tile Tile_87.9000_22.2500 re-downloaded and is now valid.
+Downloaded Tile_87.8000_22.3000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.3000.tif
+Tile Tile_87.8000_22.3000 is invalid, re-downloading...
+Downloaded Tile_87.8000_22.3000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.3000.tif
+Tile Tile_87.8000_22.3000 is still invalid after re-downloading.
+Downloaded Tile_87.9000_22.3000
+Tile Tile_87.9000_22.3000 is valid.
+Downloaded Tile_87.8000_22.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.8000_22.1000.tif
+Tile Tile_87.8000_22.1000 is invalid, re-downloading...
+Downloaded Tile_87.8000_22.1000
+Tile Tile_87.8000_22.1000 re-downloaded and is now valid.
+Downloaded Tile_87.9500_22.2500
+Tile Tile_87.9500_22.2500 is valid.
+Downloaded Tile_87.8000_22.2500
+Tile Tile_87.8000_22.2500 is valid.
+Downloaded Tile_87.9500_22.3000
+Tile Tile_87.9500_22.3000 is valid.
+Downloaded Tile_87.8500_22.0500
+Tile Tile_87.8500_22.0500 is valid.
+Downloaded Tile_87.9500_22.1000
+Tile Tile_87.9500_22.1000 is valid.
+Downloaded Tile_87.9000_22.1500
+Tile Tile_87.9000_22.1500 is valid.
+Downloaded Tile_87.9500_22.1500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.9500_22.1500.tif
+Tile Tile_87.9500_22.1500 is invalid, re-downloading...
+Downloaded Tile_87.9500_22.1500
+Tile Tile_87.9500_22.1500 re-downloaded and is now valid.
+Downloaded Tile_87.9000_22.1000
+Tile Tile_87.9000_22.1000 is valid.
+Downloaded Tile_87.9500_22.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/wb_small_airshed/Tile_87.9500_22.0500.tif
+Tile Tile_87.9500_22.0500 is invalid, re-downloading...
+Downloaded Tile_87.9500_22.0500
+Tile Tile_87.9500_22.0500 re-downloaded and is now valid.
+Downloaded Tile_87.9000_22.0500
+Tile Tile_87.9000_22.0500 is valid.
+Downloaded Tile_87.9500_22.2000
+Tile Tile_87.9500_22.2000 is valid.

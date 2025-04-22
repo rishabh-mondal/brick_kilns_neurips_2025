@@ -1,0 +1,359 @@
+Area in square meters: 3,812,083,935.34 m²
+Area in square kilometers: 3,812.08 km²
+Generated 156 tiles.
+Area of AOI: 0.32 square meters
+Filtered 134 tiles based on intersection area.
+Total number of filtered tiles: 134
+Estimated total file size: 442.20 MB
+Estimated total memory required: 0.43 GB
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_23.6636.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.2749_23.7136.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.3249_24.0636.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0749_23.7636.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_89.8749_24.1136.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_24.1136.tif
+Valid files: 128
+Invalid files: 6
+Downloaded Tile_89.9249_23.6636
+Tile Tile_89.9249_23.6636 is valid.
+Downloaded Tile_89.9749_24.1136
+Tile Tile_89.9749_24.1136 is valid.
+Downloaded Tile_90.0749_23.8136
+Tile Tile_90.0749_23.8136 is valid.
+Downloaded Tile_90.1249_24.0136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.1249_24.0136.tif
+Tile Tile_90.1249_24.0136 is invalid, re-downloading...
+Downloaded Tile_90.1249_24.0136
+Tile Tile_90.1249_24.0136 re-downloaded and is now valid.
+Downloaded Tile_90.2249_23.7136
+Tile Tile_90.2249_23.7136 is valid.
+Downloaded Tile_90.2749_24.0136
+Tile Tile_90.2749_24.0136 is valid.
+Downloaded Tile_90.3749_23.9636
+Tile Tile_90.3749_23.9636 is valid.
+Downloaded Tile_89.8749_23.8136
+Tile Tile_89.8749_23.8136 is valid.
+Downloaded Tile_89.9249_24.1136
+Tile Tile_89.9249_24.1136 is valid.
+Downloaded Tile_90.0249_23.8636
+Tile Tile_90.0249_23.8636 is valid.
+Downloaded Tile_90.1249_23.7636
+Tile Tile_90.1249_23.7636 is valid.
+Downloaded Tile_90.1749_23.9636
+Tile Tile_90.1749_23.9636 is valid.
+Downloaded Tile_90.2249_24.1636
+Tile Tile_90.2249_24.1636 is valid.
+Downloaded Tile_90.3249_23.9136
+Tile Tile_90.3249_23.9136 is valid.
+Downloaded Tile_90.3749_24.2136
+Tile Tile_90.3749_24.2136 is valid.
+Downloaded Tile_89.9249_23.7136
+Tile Tile_89.9249_23.7136 is valid.
+Downloaded Tile_89.9749_23.9136
+Tile Tile_89.9749_23.9136 is valid.
+Downloaded Tile_90.0249_23.9636
+Tile Tile_90.0249_23.9636 is valid.
+Downloaded Tile_90.1249_23.8136
+Tile Tile_90.1249_23.8136 is valid.
+Downloaded Tile_90.1749_24.1136
+Tile Tile_90.1749_24.1136 is valid.
+Downloaded Tile_90.2749_23.6636
+Tile Tile_90.2749_23.6636 is valid.
+Downloaded Tile_90.3249_23.8136
+Tile Tile_90.3249_23.8136 is valid.
+Downloaded Tile_90.3749_24.1136
+Tile Tile_90.3749_24.1136 is valid.
+Downloaded Tile_89.9249_23.8636
+Tile Tile_89.9249_23.8636 is valid.
+Downloaded Tile_89.9749_24.0636
+Tile Tile_89.9749_24.0636 is valid.
+Downloaded Tile_90.0749_23.7636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0749_23.7636.tif
+Tile Tile_90.0749_23.7636 is invalid, re-downloading...
+Downloaded Tile_90.0749_23.7636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0749_23.7636.tif
+Tile Tile_90.0749_23.7636 is still invalid after re-downloading.
+Downloaded Tile_90.0749_24.0136
+Tile Tile_90.0749_24.0136 is valid.
+Downloaded Tile_90.1749_23.8136
+Tile Tile_90.1749_23.8136 is valid.
+Downloaded Tile_90.2749_23.8636
+Tile Tile_90.2749_23.8636 is valid.
+Downloaded Tile_90.3249_23.9636
+Tile Tile_90.3249_23.9636 is valid.
+Downloaded Tile_90.4249_23.6636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.4249_23.6636.tif
+Tile Tile_90.4249_23.6636 is invalid, re-downloading...
+Downloaded Tile_90.4249_23.6636
+Tile Tile_90.4249_23.6636 re-downloaded and is now valid.
+Downloaded Tile_89.8749_23.7136
+Tile Tile_89.8749_23.7136 is valid.
+Downloaded Tile_89.9749_23.6636
+Tile Tile_89.9749_23.6636 is valid.
+Downloaded Tile_90.0249_24.0136
+Tile Tile_90.0249_24.0136 is valid.
+Downloaded Tile_90.0749_24.1136
+Tile Tile_90.0749_24.1136 is valid.
+Downloaded Tile_90.1749_23.7136
+Tile Tile_90.1749_23.7136 is valid.
+Downloaded Tile_90.2249_24.0636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.2249_24.0636.tif
+Tile Tile_90.2249_24.0636 is invalid, re-downloading...
+Downloaded Tile_90.2249_24.0636
+Tile Tile_90.2249_24.0636 re-downloaded and is now valid.
+Downloaded Tile_90.3249_24.0136
+Tile Tile_90.3249_24.0136 is valid.
+Downloaded Tile_90.4249_23.7136
+Tile Tile_90.4249_23.7136 is valid.
+Downloaded Tile_89.9249_23.7636
+Tile Tile_89.9249_23.7636 is valid.
+Downloaded Tile_89.9249_24.1636
+Tile Tile_89.9249_24.1636 is valid.
+Downloaded Tile_90.0249_23.6636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_23.6636.tif
+Tile Tile_90.0249_23.6636 is invalid, re-downloading...
+Downloaded Tile_90.0249_23.6636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_23.6636.tif
+Tile Tile_90.0249_23.6636 is still invalid after re-downloading.
+Downloaded Tile_90.0249_24.1636
+Tile Tile_90.0249_24.1636 is valid.
+Downloaded Tile_90.1249_23.8636
+Tile Tile_90.1249_23.8636 is valid.
+Downloaded Tile_90.1749_24.1636
+Tile Tile_90.1749_24.1636 is valid.
+Downloaded Tile_90.2749_23.9636
+Tile Tile_90.2749_23.9636 is valid.
+Downloaded Tile_90.3249_24.1136
+Tile Tile_90.3249_24.1136 is valid.
+Downloaded Tile_90.4249_23.7636
+Tile Tile_90.4249_23.7636 is valid.
+Downloaded Tile_89.8749_23.9136
+Tile Tile_89.8749_23.9136 is valid.
+Downloaded Tile_89.9749_23.8636
+Tile Tile_89.9749_23.8636 is valid.
+Downloaded Tile_90.0749_23.8636
+Tile Tile_90.0749_23.8636 is valid.
+Downloaded Tile_90.1249_24.1136
+Tile Tile_90.1249_24.1136 is valid.
+Downloaded Tile_90.2249_23.8136
+Tile Tile_90.2249_23.8136 is valid.
+Downloaded Tile_90.2749_23.9136
+Tile Tile_90.2749_23.9136 is valid.
+Downloaded Tile_90.3249_24.1636
+Tile Tile_90.3249_24.1636 is valid.
+Downloaded Tile_90.4249_23.8136
+Tile Tile_90.4249_23.8136 is valid.
+Downloaded Tile_89.8749_23.6636
+Tile Tile_89.8749_23.6636 is valid.
+Downloaded Tile_89.9249_24.0636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_89.9249_24.0636.tif
+Tile Tile_89.9249_24.0636 is invalid, re-downloading...
+Downloaded Tile_89.9249_24.0636
+Tile Tile_89.9249_24.0636 re-downloaded and is now valid.
+Downloaded Tile_90.0249_23.7636
+Tile Tile_90.0249_23.7636 is valid.
+Downloaded Tile_90.0749_24.0636
+Tile Tile_90.0749_24.0636 is valid.
+Downloaded Tile_90.1749_23.7636
+Tile Tile_90.1749_23.7636 is valid.
+Downloaded Tile_90.2249_23.9636
+Tile Tile_90.2249_23.9636 is valid.
+Downloaded Tile_90.3249_23.7136
+Tile Tile_90.3249_23.7136 is valid.
+Downloaded Tile_90.3749_24.0136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.3749_24.0136.tif
+Tile Tile_90.3749_24.0136 is invalid, re-downloading...
+Downloaded Tile_90.3749_24.0136
+Tile Tile_90.3749_24.0136 re-downloaded and is now valid.
+Downloaded Tile_89.8749_24.1136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_89.8749_24.1136.tif
+Tile Tile_89.8749_24.1136 is invalid, re-downloading...
+Downloaded Tile_89.8749_24.1136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_89.8749_24.1136.tif
+Tile Tile_89.8749_24.1136 is still invalid after re-downloading.
+Downloaded Tile_89.9249_23.9136
+Tile Tile_89.9249_23.9136 is valid.
+Downloaded Tile_89.9749_24.1636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_89.9749_24.1636.tif
+Tile Tile_89.9749_24.1636 is invalid, re-downloading...
+Downloaded Tile_89.9749_24.1636
+Tile Tile_89.9749_24.1636 re-downloaded and is now valid.
+Downloaded Tile_90.0749_23.9136
+Tile Tile_90.0749_23.9136 is valid.
+Downloaded Tile_90.1249_24.1636
+Tile Tile_90.1249_24.1636 is valid.
+Downloaded Tile_90.2249_23.8636
+Tile Tile_90.2249_23.8636 is valid.
+Downloaded Tile_90.2749_24.1136
+Tile Tile_90.2749_24.1136 is valid.
+Downloaded Tile_90.3749_23.8136
+Tile Tile_90.3749_23.8136 is valid.
+Downloaded Tile_90.4249_23.9136
+Tile Tile_90.4249_23.9136 is valid.
+Downloaded Tile_89.8749_24.1636
+Tile Tile_89.8749_24.1636 is valid.
+Downloaded Tile_89.9749_24.0136
+Tile Tile_89.9749_24.0136 is valid.
+Downloaded Tile_90.0249_24.1136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_24.1136.tif
+Tile Tile_90.0249_24.1136 is invalid, re-downloading...
+Downloaded Tile_90.0249_24.1136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_24.1136.tif
+Tile Tile_90.0249_24.1136 is still invalid after re-downloading.
+Downloaded Tile_90.1249_23.7136
+Tile Tile_90.1249_23.7136 is valid.
+Downloaded Tile_90.1749_23.9136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.1749_23.9136.tif
+Tile Tile_90.1749_23.9136 is invalid, re-downloading...
+Downloaded Tile_90.1749_23.9136
+Tile Tile_90.1749_23.9136 re-downloaded and is now valid.
+Downloaded Tile_90.2749_23.7636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.2749_23.7636.tif
+Tile Tile_90.2749_23.7636 is invalid, re-downloading...
+Downloaded Tile_90.2749_23.7636
+Tile Tile_90.2749_23.7636 re-downloaded and is now valid.
+Downloaded Tile_90.3749_23.7636
+Tile Tile_90.3749_23.7636 is valid.
+Downloaded Tile_90.4249_23.8636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.4249_23.8636.tif
+Tile Tile_90.4249_23.8636 is invalid, re-downloading...
+Downloaded Tile_90.4249_23.8636
+Tile Tile_90.4249_23.8636 re-downloaded and is now valid.
+Downloaded Tile_89.8749_24.0136
+Tile Tile_89.8749_24.0136 is valid.
+Downloaded Tile_89.9749_23.8136
+Tile Tile_89.9749_23.8136 is valid.
+Downloaded Tile_90.0249_23.9136
+Tile Tile_90.0249_23.9136 is valid.
+Downloaded Tile_90.0749_23.9636
+Tile Tile_90.0749_23.9636 is valid.
+Downloaded Tile_90.1749_23.6636
+Tile Tile_90.1749_23.6636 is valid.
+Downloaded Tile_90.2249_23.9136
+Tile Tile_90.2249_23.9136 is valid.
+Downloaded Tile_90.3249_23.6636
+Tile Tile_90.3249_23.6636 is valid.
+Downloaded Tile_90.3749_23.9136
+Tile Tile_90.3749_23.9136 is valid.
+Downloaded Tile_90.4249_24.0136
+Tile Tile_90.4249_24.0136 is valid.
+Downloaded Tile_89.9249_23.8136
+Tile Tile_89.9249_23.8136 is valid.
+Downloaded Tile_89.9749_23.9636
+Tile Tile_89.9749_23.9636 is valid.
+Downloaded Tile_90.0749_23.7136
+Tile Tile_90.0749_23.7136 is valid.
+Downloaded Tile_90.1249_24.0636
+Tile Tile_90.1249_24.0636 is valid.
+Downloaded Tile_90.2249_23.7636
+Tile Tile_90.2249_23.7636 is valid.
+Downloaded Tile_90.2749_24.0636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.2749_24.0636.tif
+Tile Tile_90.2749_24.0636 is invalid, re-downloading...
+Downloaded Tile_90.2749_24.0636
+Tile Tile_90.2749_24.0636 re-downloaded and is now valid.
+Downloaded Tile_90.3749_23.7136
+Tile Tile_90.3749_23.7136 is valid.
+Downloaded Tile_90.4249_24.0636
+Tile Tile_90.4249_24.0636 is valid.
+Downloaded Tile_89.8749_24.0636
+Tile Tile_89.8749_24.0636 is valid.
+Downloaded Tile_89.9249_24.0136
+Tile Tile_89.9249_24.0136 is valid.
+Downloaded Tile_90.0249_23.7136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_23.7136.tif
+Tile Tile_90.0249_23.7136 is invalid, re-downloading...
+Downloaded Tile_90.0249_23.7136
+Tile Tile_90.0249_23.7136 re-downloaded and is now valid.
+Downloaded Tile_90.1249_23.6636
+Tile Tile_90.1249_23.6636 is valid.
+Downloaded Tile_90.1749_24.0136
+Tile Tile_90.1749_24.0136 is valid.
+Downloaded Tile_90.2249_24.1136
+Tile Tile_90.2249_24.1136 is valid.
+Downloaded Tile_90.3249_23.8636
+Tile Tile_90.3249_23.8636 is valid.
+Downloaded Tile_90.3749_24.0636
+Tile Tile_90.3749_24.0636 is valid.
+Downloaded Tile_90.4249_24.2136
+Tile Tile_90.4249_24.2136 is valid.
+Downloaded Tile_89.8749_23.9636
+Tile Tile_89.8749_23.9636 is valid.
+Downloaded Tile_89.9749_23.7636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_89.9749_23.7636.tif
+Tile Tile_89.9749_23.7636 is invalid, re-downloading...
+Downloaded Tile_89.9749_23.7636
+Tile Tile_89.9749_23.7636 re-downloaded and is now valid.
+Downloaded Tile_90.0249_24.0636
+Tile Tile_90.0249_24.0636 is valid.
+Downloaded Tile_90.1249_23.9636
+Tile Tile_90.1249_23.9636 is valid.
+Downloaded Tile_90.2249_23.6636
+Tile Tile_90.2249_23.6636 is valid.
+Downloaded Tile_90.2749_23.7136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.2749_23.7136.tif
+Tile Tile_90.2749_23.7136 is invalid, re-downloading...
+Downloaded Tile_90.2749_23.7136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.2749_23.7136.tif
+Tile Tile_90.2749_23.7136 is still invalid after re-downloading.
+Downloaded Tile_90.2749_24.1636
+Tile Tile_90.2749_24.1636 is valid.
+Downloaded Tile_90.3749_23.8636
+Tile Tile_90.3749_23.8636 is valid.
+Downloaded Tile_90.4249_23.9636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.4249_23.9636.tif
+Tile Tile_90.4249_23.9636 is invalid, re-downloading...
+Downloaded Tile_90.4249_23.9636
+Tile Tile_90.4249_23.9636 re-downloaded and is now valid.
+Downloaded Tile_89.8749_23.8636
+Tile Tile_89.8749_23.8636 is valid.
+Downloaded Tile_89.9749_23.7136
+Tile Tile_89.9749_23.7136 is valid.
+Downloaded Tile_90.0749_23.6636
+Tile Tile_90.0749_23.6636 is valid.
+Downloaded Tile_90.1249_23.9136
+Tile Tile_90.1249_23.9136 is valid.
+Downloaded Tile_90.1749_23.8636
+Tile Tile_90.1749_23.8636 is valid.
+Downloaded Tile_90.2249_24.0136
+Tile Tile_90.2249_24.0136 is valid.
+Downloaded Tile_90.3249_23.7636
+Tile Tile_90.3249_23.7636 is valid.
+Downloaded Tile_90.3749_24.1636
+Tile Tile_90.3749_24.1636 is valid.
+Downloaded Tile_90.4249_24.1136
+Tile Tile_90.4249_24.1136 is valid.
+Downloaded Tile_89.8749_23.7636
+Tile Tile_89.8749_23.7636 is valid.
+Downloaded Tile_89.9249_23.9636
+Tile Tile_89.9249_23.9636 is valid.
+Downloaded Tile_90.0249_23.8136
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0249_23.8136.tif
+Tile Tile_90.0249_23.8136 is invalid, re-downloading...
+Downloaded Tile_90.0249_23.8136
+Tile Tile_90.0249_23.8136 re-downloaded and is now valid.
+Downloaded Tile_90.0749_24.1636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.0749_24.1636.tif
+Tile Tile_90.0749_24.1636 is invalid, re-downloading...
+Downloaded Tile_90.0749_24.1636
+Tile Tile_90.0749_24.1636 re-downloaded and is now valid.
+Downloaded Tile_90.1749_24.0636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.1749_24.0636.tif
+Tile Tile_90.1749_24.0636 is invalid, re-downloading...
+Downloaded Tile_90.1749_24.0636
+Tile Tile_90.1749_24.0636 re-downloaded and is now valid.
+Downloaded Tile_90.2749_23.8136
+Tile Tile_90.2749_23.8136 is valid.
+Downloaded Tile_90.3249_24.0636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.3249_24.0636.tif
+Tile Tile_90.3249_24.0636 is invalid, re-downloading...
+Downloaded Tile_90.3249_24.0636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.3249_24.0636.tif
+Tile Tile_90.3249_24.0636 is still invalid after re-downloading.
+Downloaded Tile_90.3749_23.6636
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/dhaka_grid_train/Tile_90.3749_23.6636.tif
+Tile Tile_90.3749_23.6636 is invalid, re-downloading...
+Downloaded Tile_90.3749_23.6636
+Tile Tile_90.3749_23.6636 re-downloaded and is now valid.
+Downloaded Tile_90.4249_24.1636
+Tile Tile_90.4249_24.1636 is valid.

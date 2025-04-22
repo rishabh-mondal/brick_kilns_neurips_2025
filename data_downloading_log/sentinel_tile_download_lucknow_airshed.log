@@ -1,0 +1,422 @@
+Area in square meters: 3,993,776,650.09 m²
+Area in square kilometers: 3,993.78 km²
+Generated 144 tiles.
+Area of AOI: 0.36 square meters
+Filtered 144 tiles based on intersection area.
+Total number of filtered tiles: 144
+Estimated total file size: 475.20 MB
+Estimated total memory required: 0.46 GB
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1500_27.1000.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_26.8500.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.7500.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_27.1500.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_26.6500.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.7000.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_27.0000.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_26.9500.tif
+Valid files: 136
+Invalid files: 8
+Downloaded Tile_80.6500_27.0000
+Tile Tile_80.6500_27.0000 is valid.
+Downloaded Tile_80.7500_26.7500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.7500.tif
+Tile Tile_80.7500_26.7500 is invalid, re-downloading...
+Downloaded Tile_80.7500_26.7500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.7500.tif
+Tile Tile_80.7500_26.7500 is still invalid after re-downloading.
+Downloaded Tile_80.7500_27.0000
+Tile Tile_80.7500_27.0000 is valid.
+Downloaded Tile_80.8000_27.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8000_27.1000.tif
+Tile Tile_80.8000_27.1000 is invalid, re-downloading...
+Downloaded Tile_80.8000_27.1000
+Tile Tile_80.8000_27.1000 re-downloaded and is now valid.
+Downloaded Tile_80.9000_26.7000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_26.7000.tif
+Tile Tile_80.9000_26.7000 is invalid, re-downloading...
+Downloaded Tile_80.9000_26.7000
+Tile Tile_80.9000_26.7000 re-downloaded and is now valid.
+Downloaded Tile_80.9500_27.0000
+Tile Tile_80.9500_27.0000 is valid.
+Downloaded Tile_81.0000_27.1500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.0000_27.1500.tif
+Tile Tile_81.0000_27.1500 is invalid, re-downloading...
+Downloaded Tile_81.0000_27.1500
+Tile Tile_81.0000_27.1500 re-downloaded and is now valid.
+Downloaded Tile_81.0500_27.1500
+Tile Tile_81.0500_27.1500 is valid.
+Downloaded Tile_80.6500_26.9500
+Tile Tile_80.6500_26.9500 is valid.
+Downloaded Tile_80.7000_26.8500
+Tile Tile_80.7000_26.8500 is valid.
+Downloaded Tile_80.7500_27.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_27.0500.tif
+Tile Tile_80.7500_27.0500 is invalid, re-downloading...
+Downloaded Tile_80.7500_27.0500
+Tile Tile_80.7500_27.0500 re-downloaded and is now valid.
+Downloaded Tile_80.8500_27.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8500_27.0500.tif
+Tile Tile_80.8500_27.0500 is invalid, re-downloading...
+Downloaded Tile_80.8500_27.0500
+Tile Tile_80.8500_27.0500 re-downloaded and is now valid.
+Downloaded Tile_80.9500_26.7000
+Tile Tile_80.9500_26.7000 is valid.
+Downloaded Tile_81.0000_26.8000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.0000_26.8000.tif
+Tile Tile_81.0000_26.8000 is invalid, re-downloading...
+Downloaded Tile_81.0000_26.8000
+Tile Tile_81.0000_26.8000 re-downloaded and is now valid.
+Downloaded Tile_81.0500_27.0000
+Tile Tile_81.0500_27.0000 is valid.
+Downloaded Tile_80.7000_26.6500
+Tile Tile_80.7000_26.6500 is valid.
+Downloaded Tile_80.7500_26.6500
+Tile Tile_80.7500_26.6500 is valid.
+Downloaded Tile_80.8000_26.7500
+Tile Tile_80.8000_26.7500 is valid.
+Downloaded Tile_80.8500_26.8500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8500_26.8500.tif
+Tile Tile_80.8500_26.8500 is invalid, re-downloading...
+Downloaded Tile_80.8500_26.8500
+Tile Tile_80.8500_26.8500 re-downloaded and is now valid.
+Downloaded Tile_80.9000_27.0000
+Tile Tile_80.9000_27.0000 is valid.
+Downloaded Tile_80.9500_27.0500
+Tile Tile_80.9500_27.0500 is valid.
+Downloaded Tile_81.0500_27.0500
+Tile Tile_81.0500_27.0500 is valid.
+Downloaded Tile_81.1500_26.9500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1500_26.9500.tif
+Tile Tile_81.1500_26.9500 is invalid, re-downloading...
+Downloaded Tile_81.1500_26.9500
+Tile Tile_81.1500_26.9500 re-downloaded and is now valid.
+Downloaded Tile_80.6500_27.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.6500_27.0500.tif
+Tile Tile_80.6500_27.0500 is invalid, re-downloading...
+Downloaded Tile_80.6500_27.0500
+Tile Tile_80.6500_27.0500 re-downloaded and is now valid.
+Downloaded Tile_80.7500_26.9500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.9500.tif
+Tile Tile_80.7500_26.9500 is invalid, re-downloading...
+Downloaded Tile_80.7500_26.9500
+Tile Tile_80.7500_26.9500 re-downloaded and is now valid.
+Downloaded Tile_80.8000_27.0500
+Tile Tile_80.8000_27.0500 is valid.
+Downloaded Tile_80.9000_26.6000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_26.6000.tif
+Tile Tile_80.9000_26.6000 is invalid, re-downloading...
+Downloaded Tile_80.9000_26.6000
+Tile Tile_80.9000_26.6000 re-downloaded and is now valid.
+Downloaded Tile_80.9500_26.8500
+Tile Tile_80.9500_26.8500 is valid.
+Downloaded Tile_81.0000_27.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.0000_27.0500.tif
+Tile Tile_81.0000_27.0500 is invalid, re-downloading...
+Downloaded Tile_81.0000_27.0500
+Tile Tile_81.0000_27.0500 re-downloaded and is now valid.
+Downloaded Tile_81.1000_26.7000
+Tile Tile_81.1000_26.7000 is valid.
+Downloaded Tile_81.1500_26.6500
+Tile Tile_81.1500_26.6500 is valid.
+Downloaded Tile_81.2000_26.7000
+Tile Tile_81.2000_26.7000 is valid.
+Downloaded Tile_80.6500_26.7000
+Tile Tile_80.6500_26.7000 is valid.
+Downloaded Tile_80.7500_26.8000
+Tile Tile_80.7500_26.8000 is valid.
+Downloaded Tile_80.8000_27.1500
+Tile Tile_80.8000_27.1500 is valid.
+Downloaded Tile_80.9000_26.6500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_26.6500.tif
+Tile Tile_80.9000_26.6500 is invalid, re-downloading...
+Downloaded Tile_80.9000_26.6500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_26.6500.tif
+Tile Tile_80.9000_26.6500 is still invalid after re-downloading.
+Downloaded Tile_80.9000_27.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_27.1000.tif
+Tile Tile_80.9000_27.1000 is invalid, re-downloading...
+Downloaded Tile_80.9000_27.1000
+Tile Tile_80.9000_27.1000 re-downloaded and is now valid.
+Downloaded Tile_81.0000_26.6000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.0000_26.6000.tif
+Tile Tile_81.0000_26.6000 is invalid, re-downloading...
+Downloaded Tile_81.0000_26.6000
+Tile Tile_81.0000_26.6000 re-downloaded and is now valid.
+Downloaded Tile_81.0500_26.8500
+Tile Tile_81.0500_26.8500 is valid.
+Downloaded Tile_81.1000_26.9500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_26.9500.tif
+Tile Tile_81.1000_26.9500 is invalid, re-downloading...
+Downloaded Tile_81.1000_26.9500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_26.9500.tif
+Tile Tile_81.1000_26.9500 is still invalid after re-downloading.
+Downloaded Tile_81.1000_27.1000
+Tile Tile_81.1000_27.1000 is valid.
+Downloaded Tile_81.2000_26.6000
+Tile Tile_81.2000_26.6000 is valid.
+Downloaded Tile_80.6500_26.8500
+Tile Tile_80.6500_26.8500 is valid.
+Downloaded Tile_80.7000_26.9500
+Tile Tile_80.7000_26.9500 is valid.
+Downloaded Tile_80.8000_26.6500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8000_26.6500.tif
+Tile Tile_80.8000_26.6500 is invalid, re-downloading...
+Downloaded Tile_80.8000_26.6500
+Tile Tile_80.8000_26.6500 re-downloaded and is now valid.
+Downloaded Tile_80.8500_27.1500
+Tile Tile_80.8500_27.1500 is valid.
+Downloaded Tile_80.9500_26.7500
+Tile Tile_80.9500_26.7500 is valid.
+Downloaded Tile_81.0000_27.0000
+Tile Tile_81.0000_27.0000 is valid.
+Downloaded Tile_81.1000_26.6500
+Tile Tile_81.1000_26.6500 is valid.
+Downloaded Tile_81.1500_27.1500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1500_27.1500.tif
+Tile Tile_81.1500_27.1500 is invalid, re-downloading...
+Downloaded Tile_81.1500_27.1500
+Tile Tile_81.1500_27.1500 re-downloaded and is now valid.
+Downloaded Tile_80.6500_26.7500
+Tile Tile_80.6500_26.7500 is valid.
+Downloaded Tile_80.7500_26.8500
+Tile Tile_80.7500_26.8500 is valid.
+Downloaded Tile_80.8500_26.7500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8500_26.7500.tif
+Tile Tile_80.8500_26.7500 is invalid, re-downloading...
+Downloaded Tile_80.8500_26.7500
+Tile Tile_80.8500_26.7500 re-downloaded and is now valid.
+Downloaded Tile_80.9000_26.9000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.9000_26.9000.tif
+Tile Tile_80.9000_26.9000 is invalid, re-downloading...
+Downloaded Tile_80.9000_26.9000
+Tile Tile_80.9000_26.9000 re-downloaded and is now valid.
+Downloaded Tile_80.9500_27.1500
+Tile Tile_80.9500_27.1500 is valid.
+Downloaded Tile_81.0500_26.6500
+Tile Tile_81.0500_26.6500 is valid.
+Downloaded Tile_81.1500_26.6000
+Tile Tile_81.1500_26.6000 is valid.
+Downloaded Tile_81.2000_26.6500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.2000_26.6500.tif
+Tile Tile_81.2000_26.6500 is invalid, re-downloading...
+Downloaded Tile_81.2000_26.6500
+Tile Tile_81.2000_26.6500 re-downloaded and is now valid.
+Downloaded Tile_80.7000_26.7500
+Tile Tile_80.7000_26.7500 is valid.
+Downloaded Tile_80.7500_26.6000
+Tile Tile_80.7500_26.6000 is valid.
+Downloaded Tile_80.7500_27.1500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_27.1500.tif
+Tile Tile_80.7500_27.1500 is invalid, re-downloading...
+Downloaded Tile_80.7500_27.1500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_27.1500.tif
+Tile Tile_80.7500_27.1500 is still invalid after re-downloading.
+Downloaded Tile_80.8000_27.0000
+Tile Tile_80.8000_27.0000 is valid.
+Downloaded Tile_80.8500_27.1000
+Tile Tile_80.8500_27.1000 is valid.
+Downloaded Tile_80.9500_26.9000
+Tile Tile_80.9500_26.9000 is valid.
+Downloaded Tile_81.0000_26.9000
+Tile Tile_81.0000_26.9000 is valid.
+Downloaded Tile_81.1000_26.6000
+Tile Tile_81.1000_26.6000 is valid.
+Downloaded Tile_81.1000_27.1500
+Tile Tile_81.1000_27.1500 is valid.
+Downloaded Tile_81.1500_27.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1500_27.1000.tif
+Tile Tile_81.1500_27.1000 is invalid, re-downloading...
+Downloaded Tile_81.1500_27.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1500_27.1000.tif
+Tile Tile_81.1500_27.1000 is still invalid after re-downloading.
+Downloaded Tile_81.2000_26.7500
+Tile Tile_81.2000_26.7500 is valid.
+Downloaded Tile_80.6500_26.8000
+Tile Tile_80.6500_26.8000 is valid.
+Downloaded Tile_80.7000_26.8000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7000_26.8000.tif
+Tile Tile_80.7000_26.8000 is invalid, re-downloading...
+Downloaded Tile_80.7000_26.8000
+Tile Tile_80.7000_26.8000 re-downloaded and is now valid.
+Downloaded Tile_80.8500_26.6000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8500_26.6000.tif
+Tile Tile_80.8500_26.6000 is invalid, re-downloading...
+Downloaded Tile_80.8500_26.6000
+Tile Tile_80.8500_26.6000 re-downloaded and is now valid.
+Downloaded Tile_80.9500_26.6000
+Tile Tile_80.9500_26.6000 is valid.
+Downloaded Tile_81.0000_26.6500
+Tile Tile_81.0000_26.6500 is valid.
+Downloaded Tile_81.0500_26.8000
+Tile Tile_81.0500_26.8000 is valid.
+Downloaded Tile_81.1000_27.0000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_27.0000.tif
+Tile Tile_81.1000_27.0000 is invalid, re-downloading...
+Downloaded Tile_81.1000_27.0000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_27.0000.tif
+Tile Tile_81.1000_27.0000 is still invalid after re-downloading.
+Downloaded Tile_81.1500_26.7000
+Tile Tile_81.1500_26.7000 is valid.
+Downloaded Tile_81.2000_26.8500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.2000_26.8500.tif
+Tile Tile_81.2000_26.8500 is invalid, re-downloading...
+Downloaded Tile_81.2000_26.8500
+Tile Tile_81.2000_26.8500 re-downloaded and is now valid.
+Downloaded Tile_80.7000_26.7000
+Tile Tile_80.7000_26.7000 is valid.
+Downloaded Tile_80.7000_27.1000
+Tile Tile_80.7000_27.1000 is valid.
+Downloaded Tile_80.8000_26.8500
+Tile Tile_80.8000_26.8500 is valid.
+Downloaded Tile_80.9000_26.9500
+Tile Tile_80.9000_26.9500 is valid.
+Downloaded Tile_81.0000_26.7000
+Tile Tile_81.0000_26.7000 is valid.
+Downloaded Tile_81.0500_26.9000
+Tile Tile_81.0500_26.9000 is valid.
+Downloaded Tile_81.1500_26.8500
+Tile Tile_81.1500_26.8500 is valid.
+Downloaded Tile_81.2000_26.9000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.2000_26.9000.tif
+Tile Tile_81.2000_26.9000 is invalid, re-downloading...
+Downloaded Tile_81.2000_26.9000
+Tile Tile_81.2000_26.9000 re-downloaded and is now valid.
+Downloaded Tile_80.7000_26.6000
+Tile Tile_80.7000_26.6000 is valid.
+Downloaded Tile_80.7000_27.0000
+Tile Tile_80.7000_27.0000 is valid.
+Downloaded Tile_80.8000_26.8000
+Tile Tile_80.8000_26.8000 is valid.
+Downloaded Tile_80.8500_26.8000
+Tile Tile_80.8500_26.8000 is valid.
+Downloaded Tile_80.9000_26.8500
+Tile Tile_80.9000_26.8500 is valid.
+Downloaded Tile_80.9500_26.9500
+Tile Tile_80.9500_26.9500 is valid.
+Downloaded Tile_81.0000_27.1000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.0000_27.1000.tif
+Tile Tile_81.0000_27.1000 is invalid, re-downloading...
+Downloaded Tile_81.0000_27.1000
+Tile Tile_81.0000_27.1000 re-downloaded and is now valid.
+Downloaded Tile_81.1000_26.8000
+Tile Tile_81.1000_26.8000 is valid.
+Downloaded Tile_81.1500_26.8000
+Tile Tile_81.1500_26.8000 is valid.
+Downloaded Tile_81.2000_26.8000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.2000_26.8000.tif
+Tile Tile_81.2000_26.8000 is invalid, re-downloading...
+Downloaded Tile_81.2000_26.8000
+Tile Tile_81.2000_26.8000 re-downloaded and is now valid.
+Downloaded Tile_80.6500_26.9000
+Tile Tile_80.6500_26.9000 is valid.
+Downloaded Tile_80.7000_27.0500
+Tile Tile_80.7000_27.0500 is valid.
+Downloaded Tile_80.8000_26.9000
+Tile Tile_80.8000_26.9000 is valid.
+Downloaded Tile_80.8500_26.9500
+Tile Tile_80.8500_26.9500 is valid.
+Downloaded Tile_80.9000_27.0500
+Tile Tile_80.9000_27.0500 is valid.
+Downloaded Tile_81.0000_26.9500
+Tile Tile_81.0000_26.9500 is valid.
+Downloaded Tile_81.0500_27.1000
+Tile Tile_81.0500_27.1000 is valid.
+Downloaded Tile_81.1500_26.9000
+Tile Tile_81.1500_26.9000 is valid.
+Downloaded Tile_81.2000_26.9500
+Tile Tile_81.2000_26.9500 is valid.
+Downloaded Tile_80.6500_27.1500
+Tile Tile_80.6500_27.1500 is valid.
+Downloaded Tile_80.7000_27.1500
+Tile Tile_80.7000_27.1500 is valid.
+Downloaded Tile_80.8000_26.7000
+Tile Tile_80.8000_26.7000 is valid.
+Downloaded Tile_80.8500_26.9000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.8500_26.9000.tif
+Tile Tile_80.8500_26.9000 is invalid, re-downloading...
+Downloaded Tile_80.8500_26.9000
+Tile Tile_80.8500_26.9000 re-downloaded and is now valid.
+Downloaded Tile_80.9500_26.6500
+Tile Tile_80.9500_26.6500 is valid.
+Downloaded Tile_81.0000_26.7500
+Tile Tile_81.0000_26.7500 is valid.
+Downloaded Tile_81.0500_26.7500
+Tile Tile_81.0500_26.7500 is valid.
+Downloaded Tile_81.1000_26.9000
+Tile Tile_81.1000_26.9000 is valid.
+Downloaded Tile_81.1500_27.0000
+Tile Tile_81.1500_27.0000 is valid.
+Downloaded Tile_81.2000_27.1000
+Tile Tile_81.2000_27.1000 is valid.
+Downloaded Tile_80.6500_27.1000
+Tile Tile_80.6500_27.1000 is valid.
+Downloaded Tile_80.7500_26.7000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.7000.tif
+Tile Tile_80.7500_26.7000 is invalid, re-downloading...
+Downloaded Tile_80.7500_26.7000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.7500_26.7000.tif
+Tile Tile_80.7500_26.7000 is still invalid after re-downloading.
+Downloaded Tile_80.7500_27.1000
+Tile Tile_80.7500_27.1000 is valid.
+Downloaded Tile_80.8500_26.7000
+Tile Tile_80.8500_26.7000 is valid.
+Downloaded Tile_80.9000_26.7500
+Tile Tile_80.9000_26.7500 is valid.
+Downloaded Tile_81.0000_26.8500
+Tile Tile_81.0000_26.8500 is valid.
+Downloaded Tile_81.0500_26.9500
+Tile Tile_81.0500_26.9500 is valid.
+Downloaded Tile_81.1500_27.0500
+Tile Tile_81.1500_27.0500 is valid.
+Downloaded Tile_81.2000_27.1500
+Tile Tile_81.2000_27.1500 is valid.
+Downloaded Tile_80.6500_26.6000
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_80.6500_26.6000.tif
+Tile Tile_80.6500_26.6000 is invalid, re-downloading...
+Downloaded Tile_80.6500_26.6000
+Tile Tile_80.6500_26.6000 re-downloaded and is now valid.
+Downloaded Tile_80.7500_26.9000
+Tile Tile_80.7500_26.9000 is valid.
+Downloaded Tile_80.8000_26.9500
+Tile Tile_80.8000_26.9500 is valid.
+Downloaded Tile_80.8500_27.0000
+Tile Tile_80.8500_27.0000 is valid.
+Downloaded Tile_80.9000_27.1500
+Tile Tile_80.9000_27.1500 is valid.
+Downloaded Tile_80.9500_27.1000
+Tile Tile_80.9500_27.1000 is valid.
+Downloaded Tile_81.0500_26.7000
+Tile Tile_81.0500_26.7000 is valid.
+Downloaded Tile_81.1000_26.8500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_26.8500.tif
+Tile Tile_81.1000_26.8500 is invalid, re-downloading...
+Downloaded Tile_81.1000_26.8500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_26.8500.tif
+Tile Tile_81.1000_26.8500 is still invalid after re-downloading.
+Downloaded Tile_81.1000_27.0500
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/lucknow_airshed/Tile_81.1000_27.0500.tif
+Tile Tile_81.1000_27.0500 is invalid, re-downloading...
+Downloaded Tile_81.1000_27.0500
+Tile Tile_81.1000_27.0500 re-downloaded and is now valid.
+Downloaded Tile_81.2000_27.0000
+Tile Tile_81.2000_27.0000 is valid.
+Downloaded Tile_80.6500_26.6500
+Tile Tile_80.6500_26.6500 is valid.
+Downloaded Tile_80.7000_26.9000
+Tile Tile_80.7000_26.9000 is valid.
+Downloaded Tile_80.8000_26.6000
+Tile Tile_80.8000_26.6000 is valid.
+Downloaded Tile_80.8500_26.6500
+Tile Tile_80.8500_26.6500 is valid.
+Downloaded Tile_80.9000_26.8000
+Tile Tile_80.9000_26.8000 is valid.
+Downloaded Tile_80.9500_26.8000
+Tile Tile_80.9500_26.8000 is valid.
+Downloaded Tile_81.0500_26.6000
+Tile Tile_81.0500_26.6000 is valid.
+Downloaded Tile_81.1000_26.7500
+Tile Tile_81.1000_26.7500 is valid.
+Downloaded Tile_81.1500_26.7500
+Tile Tile_81.1500_26.7500 is valid.
+Downloaded Tile_81.2000_27.0500
+Tile Tile_81.2000_27.0500 is valid.
