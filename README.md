@@ -93,3 +93,32 @@ Models were tested on unseen regions to measure their generalization. Evaluation
 
 ### Dataset Format
 Each region contains:
+
+
+## Benchmarking of Models on Complete Dataset
+
+| Model         | Type            | AP@0.5 | Notes                           |
+|---------------|------------------|--------|--------------------------------|
+| YOLOv8        | One-stage        | xx.xx  | Baseline                       |
+| Florence-2    | Vision-Language  | xx.xx  | Best zero-shot performance     |
+| R3Det-KLD     | Anchor-free      | xx.xx  | Strong on rotated bounding box |
+| DETA          | Transformer      | xx.xx  | Lightweight, good mAP          |
+| ...           | ....             | ...    | ....                           |
+
+*(Values are placeholders; replace with real results)*
+
+## Applications
+
+- Air quality impact studies
+- Compliance enforcement for brick kiln conversion
+- Urban planning and policy making
+- Seasonal and temporal monitoring
+
+## Limitations and Future Work
+
+- Improve Zigzag subtype classification
+- Introduce temporal change detection
+- Optimize for low-resource inference
+
+## Conclusion
+
