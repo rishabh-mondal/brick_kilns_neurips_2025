@@ -1,0 +1,22 @@
+Area in square meters: 1,681,100,793.00 m²
+Area in square kilometers: 1,681.10 km²
+Traceback (most recent call last):
+  File "/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/brick_kilns_neurips_2025/sentinel_tile_bulk_download.py", line 51, in <module>
+    tile = gpd.GeoDataFrame({'geometry': [tile_geometry]}, crs='EPSG:4326')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/rishabh_sat/lib/python3.12/site-packages/geopandas/geodataframe.py", line 209, in __init__
+    self.set_geometry(geometry, inplace=True, crs=crs)
+  File "/opt/anaconda3/envs/rishabh_sat/lib/python3.12/site-packages/geopandas/geodataframe.py", line 407, in set_geometry
+    level.array.crs = crs
+    ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/rishabh_sat/lib/python3.12/site-packages/geopandas/array.py", line 387, in crs
+    self._crs = None if not value else CRS.from_user_input(value)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/rishabh_sat/lib/python3.12/site-packages/pyproj/crs/crs.py", line 501, in from_user_input
+    return cls(value, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/rishabh_sat/lib/python3.12/site-packages/pyproj/crs/crs.py", line 348, in __init__
+    self._local.crs = _CRS(self.srs)
+                      ^^^^^^^^^^^^^^
+  File "pyproj/_crs.pyx", line 2378, in pyproj._crs._CRS.__init__
+pyproj.exceptions.CRSError: Invalid projection: EPSG:4326: (Internal Proj Error: proj_create: SQLite error on SELECT auth_name FROM authority_list: out of memory)
