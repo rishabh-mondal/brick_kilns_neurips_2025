@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Set base variables
-name="dhaka_airshed"
-model="yolo12l"  # Options: yolov8l-obb, yolov8x-worldv2, etc.
+name="delhi_airshed"
+model="rtdetr-l"  # Options: yolov8l-obb, yolov8x-worldv2, etc.
 task="aa"          # Options: obb or aa
 
 # Adjust task if using RT-DETR
-if [[ $model == rtdetr* ]]; then
+if [[ $model == rtdetr-l ]]; then
     task="aa"
 fi
 
