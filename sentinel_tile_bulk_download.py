@@ -25,7 +25,7 @@ from rasterio.errors import RasterioIOError
 from tqdm import tqdm
 
 
-region="ahmedabad_10km_buffer"
+region="delhi_airshed"
 save_path=f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/{region}"
 os.makedirs(save_path, exist_ok=True)
 data_path = f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/regions/shapes/{region}.geojson"
@@ -133,7 +133,7 @@ for band_name, band_info in sentinel2_bands.items():
 
 # Intersection and filtering
 tiles_gdf['intersection_area'] = tiles_gdf.intersection(gdf.unary_union).area
-threshold_area = 0.015 * grid_size * grid_size
+threshold_area = 0.030 * grid_size * grid_size
 filtered_tiles_gdf = tiles_gdf[tiles_gdf['intersection_area'] > threshold_area]
 print(f"Filtered {len(filtered_tiles_gdf)} tiles based on intersection area.")
 
@@ -308,7 +308,8 @@ def process_tiles_parallel(filtered_tiles_gdf, save_path, n_jobs=4):
         ) for _, row in filtered_tiles_gdf.iterrows()
     )
 process_tiles_parallel(filtered_tiles_gdf, save_path, n_jobs=16)
-       
+
+print("All tiles processed.")       
 # Run the tile processing
 # process_tiles_sequentially(filtered_tiles_gdf, save_path)
 
