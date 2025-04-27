@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set region name
-region_name="delhi_airshed_3"
+region_name="assam"
 
 # Navigate to the script directory
 cd /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/brick_kilns_neurips_2025 || exit

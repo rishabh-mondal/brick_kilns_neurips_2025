@@ -25,7 +25,7 @@ from rasterio.errors import RasterioIOError
 from tqdm import tqdm
 
 
-region="delhi_airshed"
+region="assam"
 save_path=f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/{region}"
 os.makedirs(save_path, exist_ok=True)
 data_path = f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/regions/shapes/{region}.geojson"
@@ -121,9 +121,9 @@ sentinel2_bands = {
     "B2": {"name": "Blue", "resolution": 10, "central_wavelength": 490},
     "B3": {"name": "Green", "resolution": 10, "central_wavelength": 560},
     "B4": {"name": "Red", "resolution": 10, "central_wavelength": 665},
-    "B8": {"name": "NIR", "resolution": 10, "central_wavelength": 842},
-    "B11": {"name": "SWIR1", "resolution": 20, "central_wavelength": 1610},
-    "B12": {"name": "SWIR2", "resolution": 20, "central_wavelength": 2190},
+    # "B8": {"name": "NIR", "resolution": 10, "central_wavelength": 842},
+    # "B11": {"name": "SWIR1", "resolution": 20, "central_wavelength": 1610},
+    # "B12": {"name": "SWIR2", "resolution": 20, "central_wavelength": 2190},
 }
 
 # Add band info to tiles
@@ -158,12 +158,12 @@ filtered_tiles_gdf['tile_details'] = filtered_tile_details_df.apply(lambda row: 
     'B3_central_wavelength': row.B3_central_wavelength,
     'B4_resolution': row.B4_resolution,
     'B4_central_wavelength': row.B4_central_wavelength,
-    'B8_resolution': row.B8_resolution,
-    'B8_central_wavelength': row.B8_central_wavelength,
-    'B11_resolution': row.B11_resolution,
-    'B11_central_wavelength': row.B11_central_wavelength,
-    'B12_resolution': row.B12_resolution,
-    'B12_central_wavelength': row.B12_central_wavelength
+    # 'B8_resolution': row.B8_resolution,
+    # 'B8_central_wavelength': row.B8_central_wavelength,
+    # 'B11_resolution': row.B11_resolution,
+    # 'B11_central_wavelength': row.B11_central_wavelength,
+    # 'B12_resolution': row.B12_resolution,
+    # 'B12_central_wavelength': row.B12_central_wavelength
 }, axis=1)
 
 # Save to GeoJSON
@@ -172,7 +172,7 @@ filtered_tiles_gdf.to_crs('EPSG:4326').to_file(output_path, driver='GeoJSON')
 
 # Stats
 num_tiles = len(filtered_tiles_gdf)
-average_file_size_mb = 3.30
+average_file_size_mb = 1.80
 total_file_size_mb = num_tiles * average_file_size_mb
 total_memory_gb = total_file_size_mb / 1024
 
@@ -200,7 +200,7 @@ def download_tile(tile_geometry, tile_name, save_path):
             .filterBounds(ee_tile) \
             .filterDate('2024-01-01', '2025-02-28') \
             .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 1)) \
-            .select(['B4', 'B3', 'B2', 'B8', 'B11', 'B12', 'QA60']) \
+            .select(['B4', 'B3', 'B2', 'QA60']) \
             .sort('CLOUDY_PIXEL_PERCENTAGE')
 
         # Try the least cloudy image first
