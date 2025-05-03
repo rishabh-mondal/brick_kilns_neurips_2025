@@ -16,11 +16,68 @@ Existing datasets for environmental monitoring often focus on specific geographi
 - **Sentinel-2**: Free, multispectral satellite data with 10–20m resolution.
 - **ESRI Basemap**: Used for annotation reference.
 
-### Manual labeling Data Coverage
-- Delhi-NCR
-- Lucknow-Airshed
-- Dhaka-Airshed
-- WB-small region
+### Data Split
+
+---
+
+## 🏷️ Label Format Support
+
+| Format       | Description                                  | Path Example                                                        |
+|--------------|----------------------------------------------|---------------------------------------------------------------------|
+| YOLO (OBB)   | Original rotated bounding boxes              | `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/labels/*.txt`  |
+| YOLO (AABB)  | Axis-aligned bounding boxes                  | `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/aa_labels/*.txt` |
+| DOTA         | 8-point polygon format                       | `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/dota_format_labels/*.txt` |
+| COCO         | COCO JSON annotations                        | `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_format_labels.json`, `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_train.json`, `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_val.json`, `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_test.json` |
+
+---
+
+## 📊 Splits
+
+The dataset is split using **stratified sampling** to ensure a balanced representation of kiln types:
+
+- **Train Set (60%)**  
+  - **Images:** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/train/images/`  
+  - **Labels (OBB YOLO):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/train/labels/`  
+  - **Labels (AABB YOLO):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/train/aa_labels/`  
+  - **Labels (DOTA):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/train/dota_format_labels/`
+
+- **Validation Set (20%)**  
+  - **Images:** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/val/images/`  
+  - **Labels (OBB YOLO):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/val/labels/`  
+  - **Labels (AABB YOLO):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/val/aa_labels/`  
+  - **Labels (DOTA):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/val/dota_format_labels/`
+
+- **Test Set (20%)**  
+  - **Images:** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/test/images/`  
+  - **Labels (OBB YOLO):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/test/labels/`  
+  - **Labels (AABB YOLO):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/test/aa_labels/`  
+  - **Labels (DOTA):** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/test/dota_format_labels/`
+
+Each split also has **COCO-style annotations**:
+- **Train COCO JSON:** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_train.json`
+- **Validation COCO JSON:** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_val.json`
+- **Test COCO JSON:** `/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/stratified_split/coco_test.json`
+
+---
+
+## ✅ Status
+
+- [x] Image preprocessing complete  
+- [x] Stratified train/val/test split (60:20:20)  
+- [x] Labels converted to YOLO (OBB), YOLO (AABB), DOTA, and COCO formats  
+- [x] Fully ready for training models like YOLOv5, YOLOv8, DOTA-detectors, MMDetection, etc.
+
+---
+
+## 📬 Contact
+
+For questions or contributions, reach out to:
+
+**Rishabh Mondal**  
+[Email Placeholder]  
+Brick Kiln Detection Project  
+
+
 
 ### Predict Data Coverage
 
