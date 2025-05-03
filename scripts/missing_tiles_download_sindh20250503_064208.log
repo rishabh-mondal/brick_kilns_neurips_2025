@@ -1,0 +1,978 @@
+Total number of filtered tiles: 419
+Estimated total file size: 754.20 MB
+Estimated total memory required: 0.74 GB
+All tiles processed.
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_69.9532_24.2029.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_69.9532_24.1529.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_69.7532_24.1529.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.9532_27.2029.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.0032_24.5529.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_69.9532_24.2529.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_69.7532_24.2029.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_28.1029.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.5532_26.9029.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_24.6529.tif
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.6032_24.1529.tif
+Valid files: 5261
+Invalid files: 11
+Downloaded Tile_66.9032_24.9529
+Tile Tile_66.9032_24.9529 is valid.
+Downloaded Tile_67.2032_24.5029
+Tile Tile_67.2032_24.5029 is valid.
+Downloaded Tile_67.2532_24.2529
+Tile Tile_67.2532_24.2529 is valid.
+Downloaded Tile_67.3032_24.1529
+Tile Tile_67.3032_24.1529 is valid.
+Downloaded Tile_67.3032_25.6029
+Tile Tile_67.3032_25.6029 is valid.
+Downloaded Tile_67.3532_26.9529
+Tile Tile_67.3532_26.9529 is valid.
+Downloaded Tile_67.4032_24.9529
+Tile Tile_67.4032_24.9529 is valid.
+Downloaded Tile_67.4032_27.3529
+Tile Tile_67.4032_27.3529 is valid.
+Downloaded Tile_67.4532_26.1529
+Tile Tile_67.4532_26.1529 is valid.
+Downloaded Tile_67.5532_25.0529
+Tile Tile_67.5532_25.0529 is valid.
+Downloaded Tile_67.6032_24.6529
+Tile Tile_67.6032_24.6529 is valid.
+Downloaded Tile_67.6532_25.9029
+Tile Tile_67.6532_25.9029 is valid.
+Downloaded Tile_67.7032_25.3529
+Tile Tile_67.7032_25.3529 is valid.
+Downloaded Tile_67.7532_26.7529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.7532_26.7529.tif
+Tile Tile_67.7532_26.7529 is invalid, re-downloading...
+Downloaded Tile_67.7532_26.7529
+Tile Tile_67.7532_26.7529 re-downloaded and is now valid.
+Downloaded Tile_67.8032_27.7029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.8032_27.7029.tif
+Tile Tile_67.8032_27.7029 is invalid, re-downloading...
+Downloaded Tile_67.8032_27.7029
+Tile Tile_67.8032_27.7029 re-downloaded and is now valid.
+Downloaded Tile_67.9032_27.9029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.9032_27.9029.tif
+Tile Tile_67.9032_27.9029 is invalid, re-downloading...
+Downloaded Tile_67.9032_27.9029
+Tile Tile_67.9032_27.9029 re-downloaded and is now valid.
+Downloaded Tile_68.0032_26.8529
+Tile Tile_68.0032_26.8529 is valid.
+Downloaded Tile_68.0532_27.0529
+Tile Tile_68.0532_27.0529 is valid.
+Downloaded Tile_68.1532_26.7529
+Tile Tile_68.1532_26.7529 is valid.
+Downloaded Tile_68.2032_25.6529
+Tile Tile_68.2032_25.6529 is valid.
+Downloaded Tile_68.2532_24.9029
+Tile Tile_68.2532_24.9029 is valid.
+Downloaded Tile_68.3032_23.9529
+Tile Tile_68.3032_23.9529 is valid.
+Downloaded Tile_68.3532_27.4529
+Tile Tile_68.3532_27.4529 is valid.
+Downloaded Tile_68.4532_28.0529
+Tile Tile_68.4532_28.0529 is valid.
+Downloaded Tile_68.6032_25.0529
+Tile Tile_68.6032_25.0529 is valid.
+Downloaded Tile_67.0032_25.0029
+Tile Tile_67.0032_25.0029 is valid.
+Downloaded Tile_67.2032_27.4029
+Tile Tile_67.2032_27.4029 is valid.
+Downloaded Tile_67.3032_24.2529
+Tile Tile_67.3032_24.2529 is valid.
+Downloaded Tile_67.3032_27.5029
+Tile Tile_67.3032_27.5029 is valid.
+Downloaded Tile_67.3532_25.5029
+Tile Tile_67.3532_25.5029 is valid.
+Downloaded Tile_67.4032_25.0529
+Tile Tile_67.4032_25.0529 is valid.
+Downloaded Tile_67.4032_27.3029
+Tile Tile_67.4032_27.3029 is valid.
+Downloaded Tile_67.4532_26.0529
+Tile Tile_67.4532_26.0529 is valid.
+Downloaded Tile_67.5032_27.1029
+Tile Tile_67.5032_27.1029 is valid.
+Downloaded Tile_67.6032_24.1529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.6032_24.1529.tif
+Tile Tile_67.6032_24.1529 is invalid, re-downloading...
+Downloaded Tile_67.6032_24.1529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.6032_24.1529.tif
+Tile Tile_67.6032_24.1529 is still invalid after re-downloading.
+Downloaded Tile_67.6032_25.3529
+Tile Tile_67.6032_25.3529 is valid.
+Downloaded Tile_67.6532_26.5529
+Tile Tile_67.6532_26.5529 is valid.
+Downloaded Tile_67.7532_23.8529
+Tile Tile_67.7532_23.8529 is valid.
+Downloaded Tile_67.7532_27.1529
+Tile Tile_67.7532_27.1529 is valid.
+Downloaded Tile_67.8032_27.3529
+Tile Tile_67.8032_27.3529 is valid.
+Downloaded Tile_67.9032_26.7529
+Tile Tile_67.9032_26.7529 is valid.
+Downloaded Tile_68.0032_25.4029
+Tile Tile_68.0032_25.4029 is valid.
+Downloaded Tile_68.0532_25.4529
+Tile Tile_68.0532_25.4529 is valid.
+Downloaded Tile_68.1032_24.8029
+Tile Tile_68.1032_24.8029 is valid.
+Downloaded Tile_68.1532_26.5029
+Tile Tile_68.1532_26.5029 is valid.
+Downloaded Tile_68.2032_25.4529
+Tile Tile_68.2032_25.4529 is valid.
+Downloaded Tile_68.2532_25.5029
+Tile Tile_68.2532_25.5029 is valid.
+Downloaded Tile_68.3032_24.6029
+Tile Tile_68.3032_24.6029 is valid.
+Downloaded Tile_68.4032_24.5529
+Tile Tile_68.4032_24.5529 is valid.
+Downloaded Tile_68.5032_25.2529
+Tile Tile_68.5032_25.2529 is valid.
+Downloaded Tile_66.6532_24.8529
+Tile Tile_66.6532_24.8529 is valid.
+Downloaded Tile_67.1532_27.2529
+Tile Tile_67.1532_27.2529 is valid.
+Downloaded Tile_67.2032_26.7529
+Tile Tile_67.2032_26.7529 is valid.
+Downloaded Tile_67.2532_27.6529
+Tile Tile_67.2532_27.6529 is valid.
+Downloaded Tile_67.3532_24.2529
+Tile Tile_67.3532_24.2529 is valid.
+Downloaded Tile_67.3532_27.0529
+Tile Tile_67.3532_27.0529 is valid.
+Downloaded Tile_67.4032_25.9529
+Tile Tile_67.4032_25.9529 is valid.
+Downloaded Tile_67.4532_24.4029
+Tile Tile_67.4532_24.4029 is valid.
+Downloaded Tile_67.5032_24.1029
+Tile Tile_67.5032_24.1029 is valid.
+Downloaded Tile_67.5032_25.5029
+Tile Tile_67.5032_25.5029 is valid.
+Downloaded Tile_67.5532_25.3029
+Tile Tile_67.5532_25.3029 is valid.
+Downloaded Tile_67.6032_25.1029
+Tile Tile_67.6032_25.1029 is valid.
+Downloaded Tile_67.6532_25.6029
+Tile Tile_67.6532_25.6029 is valid.
+Downloaded Tile_67.7032_24.9029
+Tile Tile_67.7032_24.9029 is valid.
+Downloaded Tile_67.7032_27.6029
+Tile Tile_67.7032_27.6029 is valid.
+Downloaded Tile_67.8032_24.9529
+Tile Tile_67.8032_24.9529 is valid.
+Downloaded Tile_67.8532_24.2529
+Tile Tile_67.8532_24.2529 is valid.
+Downloaded Tile_67.9032_25.3529
+Tile Tile_67.9032_25.3529 is valid.
+Downloaded Tile_67.9532_25.9529
+Tile Tile_67.9532_25.9529 is valid.
+Downloaded Tile_68.0032_24.8029
+Tile Tile_68.0032_24.8029 is valid.
+Downloaded Tile_68.0532_24.9529
+Tile Tile_68.0532_24.9529 is valid.
+Downloaded Tile_68.0532_27.3029
+Tile Tile_68.0532_27.3029 is valid.
+Downloaded Tile_68.2032_25.8029
+Tile Tile_68.2032_25.8029 is valid.
+Downloaded Tile_68.2532_24.8029
+Tile Tile_68.2532_24.8029 is valid.
+Downloaded Tile_68.3032_25.0029
+Tile Tile_68.3032_25.0029 is valid.
+Downloaded Tile_68.4032_24.9029
+Tile Tile_68.4032_24.9029 is valid.
+Downloaded Tile_68.5032_25.4029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.5032_25.4029.tif
+Tile Tile_68.5032_25.4029 is invalid, re-downloading...
+Downloaded Tile_68.5032_25.4029
+Tile Tile_68.5032_25.4029 re-downloaded and is now valid.
+Downloaded Tile_68.6532_24.8029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.6532_24.8029.tif
+Tile Tile_68.6532_24.8029 is invalid, re-downloading...
+Downloaded Tile_68.6532_24.8029
+Tile Tile_68.6532_24.8029 re-downloaded and is now valid.
+Downloaded Tile_66.7532_24.9529
+Tile Tile_66.7532_24.9529 is valid.
+Downloaded Tile_67.1532_27.3029
+Tile Tile_67.1532_27.3029 is valid.
+Downloaded Tile_67.2032_27.1529
+Tile Tile_67.2032_27.1529 is valid.
+Downloaded Tile_67.2532_27.1529
+Tile Tile_67.2532_27.1529 is valid.
+Downloaded Tile_67.3032_26.4529
+Tile Tile_67.3032_26.4529 is valid.
+Downloaded Tile_67.3532_27.6029
+Tile Tile_67.3532_27.6029 is valid.
+Downloaded Tile_67.4032_25.2529
+Tile Tile_67.4032_25.2529 is valid.
+Downloaded Tile_67.4532_26.0029
+Tile Tile_67.4532_26.0029 is valid.
+Downloaded Tile_67.5032_24.8529
+Tile Tile_67.5032_24.8529 is valid.
+Downloaded Tile_67.5532_24.4529
+Tile Tile_67.5532_24.4529 is valid.
+Downloaded Tile_67.5532_26.9029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.5532_26.9029.tif
+Tile Tile_67.5532_26.9029 is invalid, re-downloading...
+Downloaded Tile_67.5532_26.9029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.5532_26.9029.tif
+Tile Tile_67.5532_26.9029 is still invalid after re-downloading.
+Downloaded Tile_67.6032_26.4529
+Tile Tile_67.6032_26.4529 is valid.
+Downloaded Tile_67.6532_27.2529
+Tile Tile_67.6532_27.2529 is valid.
+Downloaded Tile_67.7532_26.4529
+Tile Tile_67.7532_26.4529 is valid.
+Downloaded Tile_67.8032_25.8529
+Tile Tile_67.8032_25.8529 is valid.
+Downloaded Tile_67.8532_26.2029
+Tile Tile_67.8532_26.2029 is valid.
+Downloaded Tile_67.9532_24.2029
+Tile Tile_67.9532_24.2029 is valid.
+Downloaded Tile_68.0032_24.4529
+Tile Tile_68.0032_24.4529 is valid.
+Downloaded Tile_68.0532_24.6029
+Tile Tile_68.0532_24.6029 is valid.
+Downloaded Tile_68.1532_24.9529
+Tile Tile_68.1532_24.9529 is valid.
+Downloaded Tile_68.2032_24.4029
+Tile Tile_68.2032_24.4029 is valid.
+Downloaded Tile_68.2032_28.1029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_28.1029.tif
+Tile Tile_68.2032_28.1029 is invalid, re-downloading...
+Downloaded Tile_68.2032_28.1029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_28.1029.tif
+Tile Tile_68.2032_28.1029 is still invalid after re-downloading.
+Downloaded Tile_68.2532_26.2529
+Tile Tile_68.2532_26.2529 is valid.
+Downloaded Tile_68.3032_25.9029
+Tile Tile_68.3032_25.9029 is valid.
+Downloaded Tile_68.4032_25.1529
+Tile Tile_68.4032_25.1529 is valid.
+Downloaded Tile_68.5532_25.6029
+Tile Tile_68.5532_25.6029 is valid.
+Downloaded Tile_68.6532_24.3029
+Tile Tile_68.6532_24.3029 is valid.
+Downloaded Tile_66.7032_24.8529
+Tile Tile_66.7032_24.8529 is valid.
+Downloaded Tile_67.1532_25.4029
+Tile Tile_67.1532_25.4029 is valid.
+Downloaded Tile_67.2532_25.1529
+Tile Tile_67.2532_25.1529 is valid.
+Downloaded Tile_67.3032_25.2029
+Tile Tile_67.3032_25.2029 is valid.
+Downloaded Tile_67.3532_25.0029
+Tile Tile_67.3532_25.0029 is valid.
+Downloaded Tile_67.4032_25.2029
+Tile Tile_67.4032_25.2029 is valid.
+Downloaded Tile_67.4532_25.1029
+Tile Tile_67.4532_25.1029 is valid.
+Downloaded Tile_67.5032_24.8029
+Tile Tile_67.5032_24.8029 is valid.
+Downloaded Tile_67.5532_24.1029
+Tile Tile_67.5532_24.1029 is valid.
+Downloaded Tile_67.5532_26.0529
+Tile Tile_67.5532_26.0529 is valid.
+Downloaded Tile_67.6532_26.2529
+Tile Tile_67.6532_26.2529 is valid.
+Downloaded Tile_67.7032_26.0529
+Tile Tile_67.7032_26.0529 is valid.
+Downloaded Tile_67.8032_24.2029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.8032_24.2029.tif
+Tile Tile_67.8032_24.2029 is invalid, re-downloading...
+Downloaded Tile_67.8032_24.2029
+Tile Tile_67.8032_24.2029 re-downloaded and is now valid.
+Downloaded Tile_67.8032_26.8529
+Tile Tile_67.8032_26.8529 is valid.
+Downloaded Tile_67.9032_26.0029
+Tile Tile_67.9032_26.0029 is valid.
+Downloaded Tile_67.9532_27.6529
+Tile Tile_67.9532_27.6529 is valid.
+Downloaded Tile_68.0532_25.3529
+Tile Tile_68.0532_25.3529 is valid.
+Downloaded Tile_68.1032_25.8029
+Tile Tile_68.1032_25.8029 is valid.
+Downloaded Tile_68.1532_27.2029
+Tile Tile_68.1532_27.2029 is valid.
+Downloaded Tile_68.2032_26.7029
+Tile Tile_68.2032_26.7029 is valid.
+Downloaded Tile_68.2532_26.2029
+Tile Tile_68.2532_26.2029 is valid.
+Downloaded Tile_68.3032_25.9529
+Tile Tile_68.3032_25.9529 is valid.
+Downloaded Tile_68.4032_26.7529
+Tile Tile_68.4032_26.7529 is valid.
+Downloaded Tile_68.5532_25.5029
+Tile Tile_68.5532_25.5029 is valid.
+Downloaded Tile_68.6532_26.2029
+Tile Tile_68.6532_26.2029 is valid.
+Downloaded Tile_67.1032_25.3029
+Tile Tile_67.1032_25.3029 is valid.
+Downloaded Tile_67.2032_25.0029
+Tile Tile_67.2032_25.0029 is valid.
+Downloaded Tile_67.2532_26.4029
+Tile Tile_67.2532_26.4029 is valid.
+Downloaded Tile_67.3032_25.5029
+Tile Tile_67.3032_25.5029 is valid.
+Downloaded Tile_67.3532_27.4029
+Tile Tile_67.3532_27.4029 is valid.
+Downloaded Tile_67.4032_25.4029
+Tile Tile_67.4032_25.4029 is valid.
+Downloaded Tile_67.4532_23.9029
+Tile Tile_67.4532_23.9029 is valid.
+Downloaded Tile_67.4532_27.7029
+Tile Tile_67.4532_27.7029 is valid.
+Downloaded Tile_67.5032_26.0529
+Tile Tile_67.5032_26.0529 is valid.
+Downloaded Tile_67.5532_26.7029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.5532_26.7029.tif
+Tile Tile_67.5532_26.7029 is invalid, re-downloading...
+Downloaded Tile_67.5532_26.7029
+Tile Tile_67.5532_26.7029 re-downloaded and is now valid.
+Downloaded Tile_67.6532_26.0529
+Tile Tile_67.6532_26.0529 is valid.
+Downloaded Tile_67.7032_25.9029
+Tile Tile_67.7032_25.9029 is valid.
+Downloaded Tile_67.7532_27.7529
+Tile Tile_67.7532_27.7529 is valid.
+Downloaded Tile_67.8032_27.6529
+Tile Tile_67.8032_27.6529 is valid.
+Downloaded Tile_67.9032_26.4529
+Tile Tile_67.9032_26.4529 is valid.
+Downloaded Tile_67.9532_24.9029
+Tile Tile_67.9532_24.9029 is valid.
+Downloaded Tile_68.0032_24.5529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.0032_24.5529.tif
+Tile Tile_68.0032_24.5529 is invalid, re-downloading...
+Downloaded Tile_68.0032_24.5529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.0032_24.5529.tif
+Tile Tile_68.0032_24.5529 is still invalid after re-downloading.
+Downloaded Tile_68.0032_27.8529
+Tile Tile_68.0032_27.8529 is valid.
+Downloaded Tile_68.1032_24.1529
+Tile Tile_68.1032_24.1529 is valid.
+Downloaded Tile_68.1532_25.1529
+Tile Tile_68.1532_25.1529 is valid.
+Downloaded Tile_68.2032_24.6529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_24.6529.tif
+Tile Tile_68.2032_24.6529 is invalid, re-downloading...
+Downloaded Tile_68.2032_24.6529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_24.6529.tif
+Tile Tile_68.2032_24.6529 is still invalid after re-downloading.
+Downloaded Tile_68.2032_25.5529
+Tile Tile_68.2032_25.5529 is valid.
+Downloaded Tile_68.2532_24.6029
+Tile Tile_68.2532_24.6029 is valid.
+Downloaded Tile_68.2532_27.8029
+Tile Tile_68.2532_27.8029 is valid.
+Downloaded Tile_68.3032_28.1029
+Tile Tile_68.3032_28.1029 is valid.
+Downloaded Tile_68.4032_27.3029
+Tile Tile_68.4032_27.3029 is valid.
+Downloaded Tile_68.5032_27.0529
+Tile Tile_68.5032_27.0529 is valid.
+Downloaded Tile_68.7032_27.6029
+Tile Tile_68.7032_27.6029 is valid.
+Downloaded Tile_66.9032_25.0029
+Tile Tile_66.9032_25.0029 is valid.
+Downloaded Tile_67.1532_25.2529
+Tile Tile_67.1532_25.2529 is valid.
+Downloaded Tile_67.2532_25.2029
+Tile Tile_67.2532_25.2029 is valid.
+Downloaded Tile_67.3032_26.3029
+Tile Tile_67.3032_26.3029 is valid.
+Downloaded Tile_67.4032_24.3029
+Tile Tile_67.4032_24.3029 is valid.
+Downloaded Tile_67.4032_26.8029
+Tile Tile_67.4032_26.8029 is valid.
+Downloaded Tile_67.4532_25.6529
+Tile Tile_67.4532_25.6529 is valid.
+Downloaded Tile_67.5032_25.4029
+Tile Tile_67.5032_25.4029 is valid.
+Downloaded Tile_67.5532_26.5529
+Tile Tile_67.5532_26.5529 is valid.
+Downloaded Tile_67.6532_24.3029
+Tile Tile_67.6532_24.3029 is valid.
+Downloaded Tile_67.6532_27.3529
+Tile Tile_67.6532_27.3529 is valid.
+Downloaded Tile_67.7532_24.7029
+Tile Tile_67.7532_24.7029 is valid.
+Downloaded Tile_67.8032_24.5029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.8032_24.5029.tif
+Tile Tile_67.8032_24.5029 is invalid, re-downloading...
+Downloaded Tile_67.8032_24.5029
+Tile Tile_67.8032_24.5029 re-downloaded and is now valid.
+Downloaded Tile_67.8032_25.2029
+Tile Tile_67.8032_25.2029 is valid.
+Downloaded Tile_67.9032_25.6529
+Tile Tile_67.9032_25.6529 is valid.
+Downloaded Tile_67.9532_24.6029
+Tile Tile_67.9532_24.6029 is valid.
+Downloaded Tile_68.0032_24.0529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.0032_24.0529.tif
+Tile Tile_68.0032_24.0529 is invalid, re-downloading...
+Downloaded Tile_68.0032_24.0529
+Tile Tile_68.0032_24.0529 re-downloaded and is now valid.
+Downloaded Tile_68.0532_24.3029
+Tile Tile_68.0532_24.3029 is valid.
+Downloaded Tile_68.0532_27.3529
+Tile Tile_68.0532_27.3529 is valid.
+Downloaded Tile_68.2032_25.0529
+Tile Tile_68.2032_25.0529 is valid.
+Downloaded Tile_68.2032_27.7029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_27.7029.tif
+Tile Tile_68.2032_27.7029 is invalid, re-downloading...
+Downloaded Tile_68.2032_27.7029
+Tile Tile_68.2032_27.7029 re-downloaded and is now valid.
+Downloaded Tile_68.3032_25.0529
+Tile Tile_68.3032_25.0529 is valid.
+Downloaded Tile_68.4032_24.6029
+Tile Tile_68.4032_24.6029 is valid.
+Downloaded Tile_68.5032_26.6029
+Tile Tile_68.5032_26.6029 is valid.
+Downloaded Tile_68.6032_26.2029
+Tile Tile_68.6032_26.2029 is valid.
+Downloaded Tile_67.0532_24.8029
+Tile Tile_67.0532_24.8029 is valid.
+Downloaded Tile_67.2032_25.1529
+Tile Tile_67.2032_25.1529 is valid.
+Downloaded Tile_67.2532_27.0029
+Tile Tile_67.2532_27.0029 is valid.
+Downloaded Tile_67.3032_27.6029
+Tile Tile_67.3032_27.6029 is valid.
+Downloaded Tile_67.3532_26.8529
+Tile Tile_67.3532_26.8529 is valid.
+Downloaded Tile_67.4032_25.1029
+Tile Tile_67.4032_25.1029 is valid.
+Downloaded Tile_67.4032_27.7029
+Tile Tile_67.4032_27.7029 is valid.
+Downloaded Tile_67.4532_25.4529
+Tile Tile_67.4532_25.4529 is valid.
+Downloaded Tile_67.5032_26.9029
+Tile Tile_67.5032_26.9029 is valid.
+Downloaded Tile_67.5532_27.3029
+Tile Tile_67.5532_27.3029 is valid.
+Downloaded Tile_67.6532_25.5529
+Tile Tile_67.6532_25.5529 is valid.
+Downloaded Tile_67.6532_27.8529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.6532_27.8529.tif
+Tile Tile_67.6532_27.8529 is invalid, re-downloading...
+Downloaded Tile_67.6532_27.8529
+Tile Tile_67.6532_27.8529 re-downloaded and is now valid.
+Downloaded Tile_67.7532_26.7029
+Tile Tile_67.7532_26.7029 is valid.
+Downloaded Tile_67.8532_24.8529
+Tile Tile_67.8532_24.8529 is valid.
+Downloaded Tile_67.8532_27.1029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.8532_27.1029.tif
+Tile Tile_67.8532_27.1029 is invalid, re-downloading...
+Downloaded Tile_67.8532_27.1029
+Tile Tile_67.8532_27.1029 re-downloaded and is now valid.
+Downloaded Tile_68.0032_23.9029
+Tile Tile_68.0032_23.9029 is valid.
+Downloaded Tile_68.0032_27.4029
+Tile Tile_68.0032_27.4029 is valid.
+Downloaded Tile_68.1032_26.7029
+Tile Tile_68.1032_26.7029 is valid.
+Downloaded Tile_68.1532_26.8029
+Tile Tile_68.1532_26.8029 is valid.
+Downloaded Tile_68.2032_26.1029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_26.1029.tif
+Tile Tile_68.2032_26.1029 is invalid, re-downloading...
+Downloaded Tile_68.2032_26.1029
+Tile Tile_68.2032_26.1029 re-downloaded and is now valid.
+Downloaded Tile_68.2532_26.5029
+Tile Tile_68.2532_26.5029 is valid.
+Downloaded Tile_68.3032_26.2029
+Tile Tile_68.3032_26.2029 is valid.
+Downloaded Tile_68.4532_24.4529
+Tile Tile_68.4532_24.4529 is valid.
+Downloaded Tile_68.5532_25.8529
+Tile Tile_68.5532_25.8529 is valid.
+Downloaded Tile_68.6532_27.5029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.6532_27.5029.tif
+Tile Tile_68.6532_27.5029 is invalid, re-downloading...
+Downloaded Tile_68.6532_27.5029
+Tile Tile_68.6532_27.5029 re-downloaded and is now valid.
+Downloaded Tile_66.9532_24.8029
+Tile Tile_66.9532_24.8029 is valid.
+Downloaded Tile_67.2032_26.5529
+Tile Tile_67.2032_26.5529 is valid.
+Downloaded Tile_67.2532_27.0529
+Tile Tile_67.2532_27.0529 is valid.
+Downloaded Tile_67.3532_24.4029
+Tile Tile_67.3532_24.4029 is valid.
+Downloaded Tile_67.3532_27.2029
+Tile Tile_67.3532_27.2029 is valid.
+Downloaded Tile_67.4032_24.8529
+Tile Tile_67.4032_24.8529 is valid.
+Downloaded Tile_67.4032_27.6529
+Tile Tile_67.4032_27.6529 is valid.
+Downloaded Tile_67.4532_27.1529
+Tile Tile_67.4532_27.1529 is valid.
+Downloaded Tile_67.5532_24.2529
+Tile Tile_67.5532_24.2529 is valid.
+Downloaded Tile_67.5532_25.9529
+Tile Tile_67.5532_25.9529 is valid.
+Downloaded Tile_67.6032_26.9529
+Tile Tile_67.6032_26.9529 is valid.
+Downloaded Tile_67.7032_25.1529
+Tile Tile_67.7032_25.1529 is valid.
+Downloaded Tile_67.7532_25.7529
+Tile Tile_67.7532_25.7529 is valid.
+Downloaded Tile_67.8032_24.8029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.8032_24.8029.tif
+Tile Tile_67.8032_24.8029 is invalid, re-downloading...
+Downloaded Tile_67.8032_24.8029
+Tile Tile_67.8032_24.8029 re-downloaded and is now valid.
+Downloaded Tile_67.8032_26.7029
+Tile Tile_67.8032_26.7029 is valid.
+Downloaded Tile_67.9032_24.7029
+Tile Tile_67.9032_24.7029 is valid.
+Downloaded Tile_67.9532_24.5029
+Tile Tile_67.9532_24.5029 is valid.
+Downloaded Tile_68.0032_23.9529
+Tile Tile_68.0032_23.9529 is valid.
+Downloaded Tile_68.0032_27.5529
+Tile Tile_68.0032_27.5529 is valid.
+Downloaded Tile_68.1032_27.1529
+Tile Tile_68.1032_27.1529 is valid.
+Downloaded Tile_68.1532_27.2529
+Tile Tile_68.1532_27.2529 is valid.
+Downloaded Tile_68.2032_25.8529
+Tile Tile_68.2032_25.8529 is valid.
+Downloaded Tile_68.2532_25.7029
+Tile Tile_68.2532_25.7029 is valid.
+Downloaded Tile_68.3032_25.5529
+Tile Tile_68.3032_25.5529 is valid.
+Downloaded Tile_68.4032_26.7029
+Tile Tile_68.4032_26.7029 is valid.
+Downloaded Tile_68.5532_25.7529
+Tile Tile_68.5532_25.7529 is valid.
+Downloaded Tile_68.6532_27.2529
+Tile Tile_68.6532_27.2529 is valid.
+Downloaded Tile_66.7532_24.8529
+Tile Tile_66.7532_24.8529 is valid.
+Downloaded Tile_67.1532_27.0029
+Tile Tile_67.1532_27.0029 is valid.
+Downloaded Tile_67.2532_24.9529
+Tile Tile_67.2532_24.9529 is valid.
+Downloaded Tile_67.3032_24.3029
+Tile Tile_67.3032_24.3029 is valid.
+Downloaded Tile_67.3532_24.6529
+Tile Tile_67.3532_24.6529 is valid.
+Downloaded Tile_67.4032_24.4529
+Tile Tile_67.4032_24.4529 is valid.
+Downloaded Tile_67.4032_26.2029
+Tile Tile_67.4032_26.2029 is valid.
+Downloaded Tile_67.4532_25.5029
+Tile Tile_67.4532_25.5029 is valid.
+Downloaded Tile_67.5032_25.0029
+Tile Tile_67.5032_25.0029 is valid.
+Downloaded Tile_67.5532_24.8529
+Tile Tile_67.5532_24.8529 is valid.
+Downloaded Tile_67.5532_27.6529
+Tile Tile_67.5532_27.6529 is valid.
+Downloaded Tile_67.6032_26.8029
+Tile Tile_67.6032_26.8029 is valid.
+Downloaded Tile_67.7032_24.4529
+Tile Tile_67.7032_24.4529 is valid.
+Downloaded Tile_67.7032_26.1029
+Tile Tile_67.7032_26.1029 is valid.
+Downloaded Tile_67.8032_25.1029
+Tile Tile_67.8032_25.1029 is valid.
+Downloaded Tile_67.8532_25.7529
+Tile Tile_67.8532_25.7529 is valid.
+Downloaded Tile_67.9032_27.8529
+Tile Tile_67.9032_27.8529 is valid.
+Downloaded Tile_68.0032_25.0029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.0032_25.0029.tif
+Tile Tile_68.0032_25.0029 is invalid, re-downloading...
+Downloaded Tile_68.0032_25.0029
+Tile Tile_68.0032_25.0029 re-downloaded and is now valid.
+Downloaded Tile_68.0532_25.7029
+Tile Tile_68.0532_25.7029 is valid.
+Downloaded Tile_68.1032_24.2529
+Tile Tile_68.1032_24.2529 is valid.
+Downloaded Tile_68.1532_25.6529
+Tile Tile_68.1532_25.6529 is valid.
+Downloaded Tile_68.2032_24.9029
+Tile Tile_68.2032_24.9029 is valid.
+Downloaded Tile_68.2532_24.5529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2532_24.5529.tif
+Tile Tile_68.2532_24.5529 is invalid, re-downloading...
+Downloaded Tile_68.2532_24.5529
+Tile Tile_68.2532_24.5529 re-downloaded and is now valid.
+Downloaded Tile_68.2532_27.1529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2532_27.1529.tif
+Tile Tile_68.2532_27.1529 is invalid, re-downloading...
+Downloaded Tile_68.2532_27.1529
+Tile Tile_68.2532_27.1529 re-downloaded and is now valid.
+Downloaded Tile_68.3532_27.2529
+Tile Tile_68.3532_27.2529 is valid.
+Downloaded Tile_68.4532_25.3029
+Tile Tile_68.4532_25.3029 is valid.
+Downloaded Tile_68.5532_28.4029
+Tile Tile_68.5532_28.4029 is valid.
+Downloaded Tile_69.4032_27.3029
+Tile Tile_69.4032_27.3029 is valid.
+Downloaded Tile_67.0532_24.8529
+Tile Tile_67.0532_24.8529 is valid.
+Downloaded Tile_67.2032_25.5029
+Tile Tile_67.2032_25.5029 is valid.
+Downloaded Tile_67.3032_24.2029
+Tile Tile_67.3032_24.2029 is valid.
+Downloaded Tile_67.3032_26.3529
+Tile Tile_67.3032_26.3529 is valid.
+Downloaded Tile_67.3532_25.5529
+Tile Tile_67.3532_25.5529 is valid.
+Downloaded Tile_67.4032_27.1029
+Tile Tile_67.4032_27.1029 is valid.
+Downloaded Tile_67.4532_24.6029
+Tile Tile_67.4532_24.6029 is valid.
+Downloaded Tile_67.5032_24.5529
+Tile Tile_67.5032_24.5529 is valid.
+Downloaded Tile_67.5032_26.5029
+Tile Tile_67.5032_26.5029 is valid.
+Downloaded Tile_67.5532_26.1029
+Tile Tile_67.5532_26.1029 is valid.
+Downloaded Tile_67.7032_24.2029
+Tile Tile_67.7032_24.2029 is valid.
+Downloaded Tile_67.7532_24.5029
+Tile Tile_67.7532_24.5029 is valid.
+Downloaded Tile_67.7532_27.8529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.7532_27.8529.tif
+Tile Tile_67.7532_27.8529 is invalid, re-downloading...
+Downloaded Tile_67.7532_27.8529
+Tile Tile_67.7532_27.8529 re-downloaded and is now valid.
+Downloaded Tile_67.8532_25.9029
+Tile Tile_67.8532_25.9029 is valid.
+Downloaded Tile_67.9032_27.3029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.9032_27.3029.tif
+Tile Tile_67.9032_27.3029 is invalid, re-downloading...
+Downloaded Tile_67.9032_27.3029
+Tile Tile_67.9032_27.3029 re-downloaded and is now valid.
+Downloaded Tile_68.0032_25.6529
+Tile Tile_68.0032_25.6529 is valid.
+Downloaded Tile_68.0532_26.6529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.0532_26.6529.tif
+Tile Tile_68.0532_26.6529 is invalid, re-downloading...
+Downloaded Tile_68.0532_26.6529
+Tile Tile_68.0532_26.6529 re-downloaded and is now valid.
+Downloaded Tile_68.1532_24.0529
+Tile Tile_68.1532_24.0529 is valid.
+Downloaded Tile_68.1532_27.3529
+Tile Tile_68.1532_27.3529 is valid.
+Downloaded Tile_68.2032_27.3529
+Tile Tile_68.2032_27.3529 is valid.
+Downloaded Tile_68.2532_26.8529
+Tile Tile_68.2532_26.8529 is valid.
+Downloaded Tile_68.3532_26.7529
+Tile Tile_68.3532_26.7529 is valid.
+Downloaded Tile_68.4532_27.4529
+Tile Tile_68.4532_27.4529 is valid.
+Downloaded Tile_68.6032_24.0029
+Tile Tile_68.6032_24.0029 is valid.
+Downloaded Tile_68.7032_28.3529
+Tile Tile_68.7032_28.3529 is valid.
+Downloaded Tile_66.9032_24.8029
+Tile Tile_66.9032_24.8029 is valid.
+Downloaded Tile_67.2032_24.8529
+Tile Tile_67.2032_24.8529 is valid.
+Downloaded Tile_67.2532_26.5529
+Tile Tile_67.2532_26.5529 is valid.
+Downloaded Tile_67.3032_25.4029
+Tile Tile_67.3032_25.4029 is valid.
+Downloaded Tile_67.3532_26.5529
+Tile Tile_67.3532_26.5529 is valid.
+Downloaded Tile_67.4032_26.1029
+Tile Tile_67.4032_26.1029 is valid.
+Downloaded Tile_67.4532_26.6029
+Tile Tile_67.4532_26.6029 is valid.
+Downloaded Tile_67.5032_27.7529
+Tile Tile_67.5032_27.7529 is valid.
+Downloaded Tile_67.6032_24.0029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.6032_24.0029.tif
+Tile Tile_67.6032_24.0029 is invalid, re-downloading...
+Downloaded Tile_67.6032_24.0029
+Tile Tile_67.6032_24.0029 re-downloaded and is now valid.
+Downloaded Tile_67.6532_25.0529
+Tile Tile_67.6532_25.0529 is valid.
+Downloaded Tile_67.6532_26.6029
+Tile Tile_67.6532_26.6029 is valid.
+Downloaded Tile_67.7032_26.5029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.7032_26.5029.tif
+Tile Tile_67.7032_26.5029 is invalid, re-downloading...
+Downloaded Tile_67.7032_26.5029
+Tile Tile_67.7032_26.5029 re-downloaded and is now valid.
+Downloaded Tile_67.8032_24.5529
+Tile Tile_67.8032_24.5529 is valid.
+Downloaded Tile_67.8032_26.5529
+Tile Tile_67.8032_26.5529 is valid.
+Downloaded Tile_67.9032_24.3029
+Tile Tile_67.9032_24.3029 is valid.
+Downloaded Tile_67.9532_24.7029
+Tile Tile_67.9532_24.7029 is valid.
+Downloaded Tile_68.0032_24.5029
+Tile Tile_68.0032_24.5029 is valid.
+Downloaded Tile_68.0532_25.0529
+Tile Tile_68.0532_25.0529 is valid.
+Downloaded Tile_68.1032_23.9029
+Tile Tile_68.1032_23.9029 is valid.
+Downloaded Tile_68.1532_25.4529
+Tile Tile_68.1532_25.4529 is valid.
+Downloaded Tile_68.2032_25.3029
+Tile Tile_68.2032_25.3029 is valid.
+Downloaded Tile_68.2532_24.7029
+Tile Tile_68.2532_24.7029 is valid.
+Downloaded Tile_68.2532_28.0529
+Tile Tile_68.2532_28.0529 is valid.
+Downloaded Tile_68.4032_25.6529
+Tile Tile_68.4032_25.6529 is valid.
+Downloaded Tile_68.5532_24.9529
+Tile Tile_68.5532_24.9529 is valid.
+Downloaded Tile_68.6032_27.0029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.6032_27.0029.tif
+Tile Tile_68.6032_27.0029 is invalid, re-downloading...
+Downloaded Tile_68.6032_27.0029
+Tile Tile_68.6032_27.0029 re-downloaded and is now valid.
+Downloaded Tile_67.0032_25.1529
+Tile Tile_67.0032_25.1529 is valid.
+Downloaded Tile_67.2532_24.4529
+Tile Tile_67.2532_24.4529 is valid.
+Downloaded Tile_67.3032_24.9529
+Tile Tile_67.3032_24.9529 is valid.
+Downloaded Tile_67.3532_24.5029
+Tile Tile_67.3532_24.5029 is valid.
+Downloaded Tile_67.3532_26.2529
+Tile Tile_67.3532_26.2529 is valid.
+Downloaded Tile_67.4032_26.9529
+Tile Tile_67.4032_26.9529 is valid.
+Downloaded Tile_67.4532_24.5029
+Tile Tile_67.4532_24.5029 is valid.
+Downloaded Tile_67.5032_24.4029
+Tile Tile_67.5032_24.4029 is valid.
+Downloaded Tile_67.5032_27.3529
+Tile Tile_67.5032_27.3529 is valid.
+Downloaded Tile_67.5532_26.8529
+Tile Tile_67.5532_26.8529 is valid.
+Downloaded Tile_67.6032_27.6029
+Tile Tile_67.6032_27.6029 is valid.
+Downloaded Tile_67.7032_24.9529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.7032_24.9529.tif
+Tile Tile_67.7032_24.9529 is invalid, re-downloading...
+Downloaded Tile_67.7032_24.9529
+Tile Tile_67.7032_24.9529 re-downloaded and is now valid.
+Downloaded Tile_67.7532_25.8529
+Tile Tile_67.7532_25.8529 is valid.
+Downloaded Tile_67.8032_24.6029
+Tile Tile_67.8032_24.6029 is valid.
+Downloaded Tile_67.8032_25.3029
+Tile Tile_67.8032_25.3029 is valid.
+Downloaded Tile_67.8532_26.7029
+Tile Tile_67.8532_26.7029 is valid.
+Downloaded Tile_67.9532_27.3029
+Tile Tile_67.9532_27.3029 is valid.
+Downloaded Tile_68.0532_25.7529
+Tile Tile_68.0532_25.7529 is valid.
+Downloaded Tile_68.1032_25.1529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.1032_25.1529.tif
+Tile Tile_68.1032_25.1529 is invalid, re-downloading...
+Downloaded Tile_68.1032_25.1529
+Tile Tile_68.1032_25.1529 re-downloaded and is now valid.
+Downloaded Tile_68.2032_24.2029
+Tile Tile_68.2032_24.2029 is valid.
+Downloaded Tile_68.2032_26.7529
+Tile Tile_68.2032_26.7529 is valid.
+Downloaded Tile_68.2532_25.8029
+Tile Tile_68.2532_25.8029 is valid.
+Downloaded Tile_68.3032_24.6529
+Tile Tile_68.3032_24.6529 is valid.
+Downloaded Tile_68.3532_28.3529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.3532_28.3529.tif
+Tile Tile_68.3532_28.3529 is invalid, re-downloading...
+Downloaded Tile_68.3532_28.3529
+Tile Tile_68.3532_28.3529 re-downloaded and is now valid.
+Downloaded Tile_68.5532_27.7529
+Tile Tile_68.5532_27.7529 is valid.
+Downloaded Tile_68.7032_26.1529
+Tile Tile_68.7032_26.1529 is valid.
+Downloaded Tile_66.7532_24.9029
+Tile Tile_66.7532_24.9029 is valid.
+Downloaded Tile_67.1032_27.2529
+Tile Tile_67.1032_27.2529 is valid.
+Downloaded Tile_67.2032_25.3529
+Tile Tile_67.2032_25.3529 is valid.
+Downloaded Tile_67.2532_27.1029
+Tile Tile_67.2532_27.1029 is valid.
+Downloaded Tile_67.3032_27.0029
+Tile Tile_67.3032_27.0029 is valid.
+Downloaded Tile_67.3532_27.5529
+Tile Tile_67.3532_27.5529 is valid.
+Downloaded Tile_67.4032_25.7529
+Tile Tile_67.4032_25.7529 is valid.
+Downloaded Tile_67.4532_24.7029
+Tile Tile_67.4532_24.7029 is valid.
+Downloaded Tile_67.5032_24.2029
+Tile Tile_67.5032_24.2029 is valid.
+Downloaded Tile_67.5032_27.0029
+Tile Tile_67.5032_27.0029 is valid.
+Downloaded Tile_67.6032_25.9529
+Tile Tile_67.6032_25.9529 is valid.
+Downloaded Tile_67.6532_27.1529
+Tile Tile_67.6532_27.1529 is valid.
+Downloaded Tile_67.7532_26.3529
+Tile Tile_67.7532_26.3529 is valid.
+Downloaded Tile_67.8032_25.5529
+Tile Tile_67.8032_25.5529 is valid.
+Downloaded Tile_67.8532_25.9529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.8532_25.9529.tif
+Tile Tile_67.8532_25.9529 is invalid, re-downloading...
+Downloaded Tile_67.8532_25.9529
+Tile Tile_67.8532_25.9529 re-downloaded and is now valid.
+Downloaded Tile_67.9532_24.1029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.9532_24.1029.tif
+Tile Tile_67.9532_24.1029 is invalid, re-downloading...
+Downloaded Tile_67.9532_24.1029
+Tile Tile_67.9532_24.1029 re-downloaded and is now valid.
+Downloaded Tile_68.0032_24.0029
+Tile Tile_68.0032_24.0029 is valid.
+Downloaded Tile_68.0532_23.7529
+Tile Tile_68.0532_23.7529 is valid.
+Downloaded Tile_68.0532_27.2029
+Tile Tile_68.0532_27.2029 is valid.
+Downloaded Tile_68.1532_26.2529
+Tile Tile_68.1532_26.2529 is valid.
+Downloaded Tile_68.2032_25.6029
+Tile Tile_68.2032_25.6029 is valid.
+Downloaded Tile_68.2532_25.2529
+Tile Tile_68.2532_25.2529 is valid.
+Downloaded Tile_68.3032_24.8529
+Tile Tile_68.3032_24.8529 is valid.
+Downloaded Tile_68.3532_28.1029
+Tile Tile_68.3532_28.1029 is valid.
+Downloaded Tile_68.4532_27.7529
+Tile Tile_68.4532_27.7529 is valid.
+Downloaded Tile_68.5532_28.3029
+Tile Tile_68.5532_28.3029 is valid.
+Downloaded Tile_68.7532_24.8529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.7532_24.8529.tif
+Tile Tile_68.7532_24.8529 is invalid, re-downloading...
+Downloaded Tile_68.7532_24.8529
+Tile Tile_68.7532_24.8529 re-downloaded and is now valid.
+Downloaded Tile_67.0032_24.7529
+Tile Tile_67.0032_24.7529 is valid.
+Downloaded Tile_67.2032_24.5529
+Tile Tile_67.2032_24.5529 is valid.
+Downloaded Tile_67.2532_26.3529
+Tile Tile_67.2532_26.3529 is valid.
+Downloaded Tile_67.3032_26.2529
+Tile Tile_67.3032_26.2529 is valid.
+Downloaded Tile_67.4032_24.6529
+Tile Tile_67.4032_24.6529 is valid.
+Downloaded Tile_67.4032_26.5529
+Tile Tile_67.4032_26.5529 is valid.
+Downloaded Tile_67.4532_24.3029
+Tile Tile_67.4532_24.3029 is valid.
+Downloaded Tile_67.4532_27.8029
+Tile Tile_67.4532_27.8029 is valid.
+Downloaded Tile_67.5032_26.6529
+Tile Tile_67.5032_26.6529 is valid.
+Downloaded Tile_67.6032_23.9529
+Tile Tile_67.6032_23.9529 is valid.
+Downloaded Tile_67.6532_23.9529
+Tile Tile_67.6532_23.9529 is valid.
+Downloaded Tile_67.6532_27.1029
+Tile Tile_67.6532_27.1029 is valid.
+Downloaded Tile_67.7532_24.2529
+Tile Tile_67.7532_24.2529 is valid.
+Downloaded Tile_67.7532_27.6029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.7532_27.6029.tif
+Tile Tile_67.7532_27.6029 is invalid, re-downloading...
+Downloaded Tile_67.7532_27.6029
+Tile Tile_67.7532_27.6029 re-downloaded and is now valid.
+Downloaded Tile_67.8532_25.1529
+Tile Tile_67.8532_25.1529 is valid.
+Downloaded Tile_67.9032_26.0529
+Tile Tile_67.9032_26.0529 is valid.
+Downloaded Tile_67.9532_27.2029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.9532_27.2029.tif
+Tile Tile_67.9532_27.2029 is invalid, re-downloading...
+Downloaded Tile_67.9532_27.2029
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_67.9532_27.2029.tif
+Tile Tile_67.9532_27.2029 is still invalid after re-downloading.
+Downloaded Tile_68.0032_26.2029
+Tile Tile_68.0032_26.2029 is valid.
+Downloaded Tile_68.0532_25.9029
+Tile Tile_68.0532_25.9029 is valid.
+Downloaded Tile_68.1032_27.3029
+Tile Tile_68.1032_27.3029 is valid.
+Downloaded Tile_68.2032_23.9029
+Tile Tile_68.2032_23.9029 is valid.
+Downloaded Tile_68.2032_26.1529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.2032_26.1529.tif
+Tile Tile_68.2032_26.1529 is invalid, re-downloading...
+Downloaded Tile_68.2032_26.1529
+Tile Tile_68.2032_26.1529 re-downloaded and is now valid.
+Downloaded Tile_68.2532_27.3529
+Tile Tile_68.2532_27.3529 is valid.
+Downloaded Tile_68.3032_26.3029
+Tile Tile_68.3032_26.3029 is valid.
+Downloaded Tile_68.4532_25.9029
+Tile Tile_68.4532_25.9029 is valid.
+Downloaded Tile_68.5532_26.8029
+Tile Tile_68.5532_26.8029 is valid.
+Downloaded Tile_69.4532_24.9529
+Tile Tile_69.4532_24.9529 is valid.
+Downloaded Tile_66.9532_24.9029
+Tile Tile_66.9532_24.9029 is valid.
+Downloaded Tile_67.2032_27.1029
+Tile Tile_67.2032_27.1029 is valid.
+Downloaded Tile_67.3032_24.8029
+Tile Tile_67.3032_24.8029 is valid.
+Downloaded Tile_67.3532_24.3029
+Tile Tile_67.3532_24.3029 is valid.
+Downloaded Tile_67.3532_27.2529
+Tile Tile_67.3532_27.2529 is valid.
+Downloaded Tile_67.4032_25.3029
+Tile Tile_67.4032_25.3029 is valid.
+Downloaded Tile_67.4532_24.7529
+Tile Tile_67.4532_24.7529 is valid.
+Downloaded Tile_67.5032_24.7029
+Tile Tile_67.5032_24.7029 is valid.
+Downloaded Tile_67.5032_27.4029
+Tile Tile_67.5032_27.4029 is valid.
+Downloaded Tile_67.5532_26.4029
+Tile Tile_67.5532_26.4029 is valid.
+Downloaded Tile_67.6532_25.6529
+Tile Tile_67.6532_25.6529 is valid.
+Downloaded Tile_67.7032_23.9529
+Tile Tile_67.7032_23.9529 is valid.
+Downloaded Tile_67.7032_26.8529
+Tile Tile_67.7032_26.8529 is valid.
+Downloaded Tile_67.8532_25.1029
+Tile Tile_67.8532_25.1029 is valid.
+Downloaded Tile_67.9032_25.9529
+Tile Tile_67.9032_25.9529 is valid.
+Downloaded Tile_67.9532_27.2529
+Tile Tile_67.9532_27.2529 is valid.
+Downloaded Tile_68.0032_28.1029
+Tile Tile_68.0032_28.1029 is valid.
+Downloaded Tile_68.1032_25.4529
+Tile Tile_68.1032_25.4529 is valid.
+Downloaded Tile_68.1532_26.0529
+Tile Tile_68.1532_26.0529 is valid.
+Downloaded Tile_68.2032_25.1529
+Tile Tile_68.2032_25.1529 is valid.
+Downloaded Tile_68.2032_27.8029
+Tile Tile_68.2032_27.8029 is valid.
+Downloaded Tile_68.2532_28.0029
+Tile Tile_68.2532_28.0029 is valid.
+Downloaded Tile_68.4032_26.2029
+Tile Tile_68.4032_26.2029 is valid.
+Downloaded Tile_68.5032_27.4529
+File is too small: /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/sindh/Tile_68.5032_27.4529.tif
+Tile Tile_68.5032_27.4529 is invalid, re-downloading...
+Downloaded Tile_68.5032_27.4529
+Tile Tile_68.5032_27.4529 re-downloaded and is now valid.
+Downloaded Tile_68.6532_28.0029
+Tile Tile_68.6532_28.0029 is valid.
