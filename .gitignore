@@ -15,3 +15,8 @@ Strip-R-CNN/
 mmrotate/
 model/mmrotate/
 runs/
+figures/
+lightning_logs/
+model/mmrotate/
+mmrotate/
+Strip-R-CNN/

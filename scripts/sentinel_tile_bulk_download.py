@@ -25,7 +25,7 @@ from rasterio.errors import RasterioIOError
 from tqdm import tqdm
 
 
-region="gujarat"
+region="afghanistan"
 save_path=f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/{region}"
 os.makedirs(save_path, exist_ok=True)
 data_path = f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/regions/shapes/{region}.geojson"
