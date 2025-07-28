@@ -1,0 +1,12 @@
+train:
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons3_lucknow_airshed/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons4_lucknow_airshed/images
+
+val : /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed/images
+nc: 3
+names:
+names:
+- CFCBK
+-  FCBK
+- Zigzag
