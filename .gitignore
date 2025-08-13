@@ -21,3 +21,5 @@ runs_sentinel/
 runs_old/
 data_downloading_log/
 a/
+**/*.pt
+**/*.geojson

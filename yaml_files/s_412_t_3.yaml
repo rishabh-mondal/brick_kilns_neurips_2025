@@ -1,10 +1,9 @@
 train:
-- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons4_lucknow_airshed/images
-- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons1_lucknow_airshed/images
-- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons4_lucknow_airshed copy/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons1_lucknow_airshed copy/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed copy/images
 
-
-val : /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed/images
+val : /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons3_lucknow_airshed copy/images
 nc: 3
 names:
 names:

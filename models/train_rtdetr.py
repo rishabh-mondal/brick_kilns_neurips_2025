@@ -10,9 +10,9 @@ import numpy as np
 import yaml
 
 # Define directories
-yaml_dir = "/home/suruchi.hardaha/cosmos/ijcai_2025_data/symlinked_aa_yaml"
-output_dir = "/home/suruchi.hardaha/cosmos/ijcai_2025_data/runs_rtdetr"
-
+yaml_dir = "/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/brick_kilns_neurips_2025/yaml_files"
+output_dir = "./runs_rtdetr"
+os.makedirs(output_dir)
 # Number of GPUs to use
 num_gpus = 2
 

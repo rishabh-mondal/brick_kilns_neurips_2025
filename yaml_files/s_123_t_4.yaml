@@ -1,13 +1,9 @@
 train:
-- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons1_lucknow_airshed/images
-- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed/images
-- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons3_lucknow_airshed/images
-# val:
-# - /home/suruchi.hardaha/cosmos/ijcai_2025_data/LOLO_AFGHANISTAN/images
-# - /home/suruchi.hardaha/cosmos/ijcai_2025_data/LOLO_BANGLADESH/images
-# - /home/suruchi.hardaha/cosmos/ijcai_2025_data/LOLO_PAKISTAN/images
-# test: /home/suruchi.hardaha/cosmos/ijcai_2025_data/LOLO/images
-val : /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons1_lucknow_airshed copy/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons2_lucknow_airshed copy/images
+- /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons3_lucknow_airshed copy/images
+
+val : /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/data/processed_data/sentinel/seasons1_lucknow_airshed copy/images
 nc: 3
 names:
 - CFCBK

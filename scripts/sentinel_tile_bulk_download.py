@@ -198,7 +198,7 @@ def download_tile(tile_geometry, tile_name, save_path):
         # Get the best available image
         image_collection = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED") \
             .filterBounds(ee_tile) \
-            .filterDate('2023-06-01', '2023-09-05') \
+            .filterDate('2024-06-01', '2024-09-05') \
             .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 1)) \
             .select(['B4', 'B3', 'B2', 'QA60']) \
             .sort('CLOUDY_PIXEL_PERCENTAGE')

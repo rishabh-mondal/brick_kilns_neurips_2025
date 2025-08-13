@@ -1,5 +1,5 @@
-train_state="delhi_ncr_train"
-test_state="delhi_ncr_test"
+train_state="delhi_ncr_train_thera"
+test_state="delhi_ncr_test_thera"
 name="train_${train_state}_val_${test_state}"
 type=sentinel
 task=obb
@@ -7,10 +7,10 @@ suffix=dota
 model_dir="/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/sh_notebooks"
 model=$model_dir/yolo11l-obb.pt
 # model=best.pt
-image_size=128
-batch_size
-save_period=100
-epochs=100
+image_size=512
+batch_size=128
+save_period=50
+epochs=50
 device=1
 base_path=/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns
 data_path=$base_path/yaml_data_dir/train_test.yaml
