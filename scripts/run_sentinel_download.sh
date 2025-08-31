@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set region name
-region_name="afghanistan"
+region_name="uttar_pradesh_s4_post_monsoon"
 
 # Navigate to the script directory
 cd /home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/brick_kilns_neurips_2025/scripts || exit

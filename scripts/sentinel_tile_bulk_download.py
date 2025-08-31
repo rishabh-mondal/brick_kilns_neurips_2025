@@ -25,8 +25,8 @@ from rasterio.errors import RasterioIOError
 from tqdm import tqdm
 
 
-region="lucknow_airshed"
-save_path=f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/seasons4_{region}"
+region="uttar_pradesh"
+save_path=f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/raw_data/setinel_tiles/seasons3_monsoon_{region}"
 os.makedirs(save_path, exist_ok=True)
 data_path = f"/home/rishabh.mondal/Brick-Kilns-project/ijcai_2025_kilns/regions/shapes/{region}.geojson"
 
@@ -198,7 +198,7 @@ def download_tile(tile_geometry, tile_name, save_path):
         # Get the best available image
         image_collection = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED") \
             .filterBounds(ee_tile) \
-            .filterDate('2024-06-01', '2024-09-05') \
+            .filterDate('2024-06-01', '2024-08-30') \
             .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 1)) \
             .select(['B4', 'B3', 'B2', 'QA60']) \
             .sort('CLOUDY_PIXEL_PERCENTAGE')
